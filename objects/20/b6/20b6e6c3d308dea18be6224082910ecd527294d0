@@ -1,0 +1,89 @@
+# Configuration file
+
+####################
+# block
+####################
+
+block {
+    I:Extractor=4000
+    I:Imprinter=4004
+    I:IndustrialApiary=4005
+    I:LiquidDNA=4009
+    I:Liquifier=4001
+    I:Mutagen=4010
+    I:MutagenProducer=4007
+    I:Mutatron=4006
+    I:MutatronAdv=4002
+    I:Protein=4008
+    I:Replicator=3998
+    I:Sampler=4003
+    I:"Test Power Emitter"=2281
+    I:Transposer=3999
+}
+
+
+####################
+# display
+####################
+
+display {
+    # Units to use when displaying power. Valid values: MJ, EU, RF
+    S:PowerShowUnits=RF
+}
+
+
+####################
+# item
+####################
+
+item {
+    I:ApiaryUpgrade=5154
+    I:BeeReceptacle=5155
+    I:ClimateModule=5156
+    I:EjectCover=31656
+    I:EnvProcessor=5169
+    I:GeneSample=5157
+    I:GeneSampleBlank=5158
+    I:GeneTemplate=5159
+    I:GeneticsProcessor=5160
+    I:HoneyComb=31658
+    I:HoneyDrop=31657
+    I:ImportCover=31655
+    I:IndustrialGrafter=5161
+    I:IndustrialScoop=5170
+    I:Labware=5162
+    I:LiquidDNABucket=5171
+    I:LiquidDNACan=5172
+    I:MutagenBucket=5163
+    I:MutagenCan=5164
+    I:MutagenTank=5165
+    I:PowerModule=5166
+    I:ProteinBucket=5173
+    I:ProteinCan=5174
+    I:UpgradeFrame=5167
+    I:Waste=5168
+}
+
+
+####################
+# machines enabled
+####################
+
+"machines enabled" {
+    B:Imprinter=true
+    B:IndustrialApiary=true
+    B:MutagenProducer=true
+    B:Mutatron=true
+    B:Sampler=true
+}
+
+
+####################
+# nei
+####################
+
+nei {
+    B:"Add samples"=true
+}
+
+

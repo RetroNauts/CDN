@@ -1,0 +1,78 @@
+# Configuration file
+
+####################
+# block
+####################
+
+block {
+    I:geobedBlock=2638
+    I:geoditeBlock=2635
+    I:geoditeOre=2633
+    I:hugeGeochest=3894
+    I:largeGeochest=3895
+    I:mediumGeochest=3896
+    I:smallGeochest=3897
+    I:tinyGeochest=3898
+}
+
+
+####################
+# entities
+####################
+
+entities {
+    B:captureBlockEntities=true
+    B:captureDroppedItems=true
+    B:captureMiscellaneous=true
+    B:captureMobs=true
+    B:captureProjectiles=true
+    B:captureTransport=true
+    B:captureWallHangings=true
+}
+
+
+####################
+# generation
+####################
+
+generation {
+    I:chanceOfOreSpawn=3
+    I:maxOreSpawnHeight=119
+    I:minOreSpawnHeight=64
+    I:sizeOfOreSpawn=4
+}
+
+
+####################
+# item
+####################
+
+item {
+    I:geobed=31678
+    I:geodite=31680
+    I:geovisualizer=31679
+}
+
+
+####################
+# limitations
+####################
+
+limitations {
+    I:maxBlocksInChain=50000
+    I:maxChestsInChain=200
+    I:maxNBTInChain=2000000
+    I:maxSizeInChain=500
+}
+
+
+####################
+# source
+####################
+
+source {
+    B:craftableGeodite=true
+    B:mineableGeodite=true
+}
+
+

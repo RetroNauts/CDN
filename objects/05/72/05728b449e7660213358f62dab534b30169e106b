@@ -1,0 +1,130 @@
+# Configuration file
+
+####################
+# condenser
+####################
+
+condenser {
+    # How many items can be condensed every <condenserSleepDelay> ticks
+    # Max = 2048, Min = 1
+    # -1 = Condense all (first release version)
+    I:condenserLimitPerTick=8
+
+    # Longer delay - Less condenser updates
+    # Min value - 0, instant condensing
+    # Max value - 32767, that's more than 1.5 days in Minecraft
+    # Default value - 10 (0.5 seconds)
+    I:condenserSleepDelay=10
+
+    # -1 - Choosed by user
+    # 0 - Items can be go both ways
+    # 1 - Items can only go in
+    # 2 - Items can only go out
+    # 3 - Automatization disabled
+    I:forcedInvMode=-1
+
+    # -1 - Choosed by user
+    # 0 - No Redstone Control
+    # 1 - Required High signal
+    # 2 - Required Low signal
+    I:forcedRedstoneControl=-1
+
+    # -1 - Choosed by user
+    # 0 - Repair Items always off
+    # 1 - Repair Items always on
+    I:forcedRepairItems=-1
+
+    # -1 - Choosed by user
+    # 0 - Safe Mode always off
+    # 1 - Safe Mode always on
+    I:forcedSafeMode=-1
+
+    # -1 - Choosed by user
+    # 0 - Public
+    # 1 - Private
+    # 2 - Whitelist
+    # 3 - Blacklist
+    I:forcedSecurity=-1
+}
+
+
+####################
+# general
+####################
+
+general {
+    B:enableAludelRecipes=true
+    B:enableBlacklist=true
+    B:enableCustomEMC=true
+    D:ununblockEnchantPower=3.0
+}
+
+
+####################
+# ids
+####################
+
+ids {
+    I:block.machines=1314
+    I:item.axe=13468
+    I:item.emcStorage=13463
+    I:item.hoe=13469
+    I:item.materials=13462
+    I:item.pickaxe=13466
+    I:item.shovel=13467
+    I:item.smasher=13470
+    I:item.sword=13465
+    I:item.wrench=13464
+}
+
+
+####################
+# recipes
+####################
+
+recipes {
+    # This changed the item used in EMC Condenser's crafting recipe
+    # 0 - UnUnSeptium Block
+    # 1 - Nether Star
+    # 2 - Minium Star
+    I:condenserRecipeDifficulty=2
+    B:infuseEnchBottle=true
+    B:infuseMiniumStar=true
+    B:infuseUUBlock=true
+
+    # 0 - Minium Star can't be converted back to Nether Star
+    # 1 - Minium Star + Glowstone Dust > Nether Star
+    # 2 - Minium Star in furnace > Nether Star
+    I:miniumToNetherStar=1
+
+    # UnUnSeptium blocks required to add Area Mode to UU Tools.
+    # 0 will disable Area Mode
+    I:toolAreaInfusion=8
+
+    # Blaze rods required to add Fire Aspect to UU Tools.
+    # 0 will disable blazing tools
+    I:toolBlazingInfusion=16
+}
+
+
+####################
+# tools
+####################
+
+tools {
+    D:blackHoleStone_item=48.0
+    D:blackHoleStone_range=4.0
+    B:enableAxe=true
+    B:enableBattery=true
+    B:enableHoe=true
+    B:enablePick=true
+    B:enableShovel=true
+    B:enableSmasher=true
+    B:enableSword=true
+    B:enableWrench=true
+    D:lifeStone_1hp=24.0
+    D:lifeStone_food=128.0
+    D:toolEmcPerDamage=64.0
+}
+
+

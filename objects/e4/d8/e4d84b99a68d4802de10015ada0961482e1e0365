@@ -1,0 +1,19 @@
+# Configuration file
+
+####################
+# block
+####################
+
+block {
+    I:alchemicalChest=2454
+    I:alchemicalFuel=2455
+    I:alchemyTable=2457
+    I:aludel=3901
+    I:calcinator=3902
+    I:chalk=2456
+    I:glassBell=2453
+    I:redWaterStill=3900
+    I:renderingTank=2458
+}
+
+

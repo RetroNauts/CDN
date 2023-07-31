@@ -1,0 +1,139 @@
+# Configuration file
+
+####################
+# a_id_offsets
+####################
+
+a_id_offsets {
+    I:BlockIDOffset=0
+    I:ItemIDOffset=0
+}
+
+
+####################
+# blocks
+####################
+
+blocks {
+    I:"Block of Camou"=506
+    I:"Creative Machine"=502
+    I:"Extension Block"=505
+    I:"Extension Part Block"=509
+    I:Gear=512
+    I:GearPart=513
+    I:"Mechanic Piston"=500
+    I:"Mechanic Rotator"=501
+    I:"Mechanic Sensor"=517
+    I:"Motion Block"=510
+    I:Partblock=507
+    I:"Rod Block"=504
+    I:"Rod Folder"=503
+    I:"Rod Part Block"=508
+    I:"Sail Part"=514
+    I:Slimeblock=511
+    I:Statue=515
+    I:Stopper=516
+    I:Wrapper=518
+}
+
+
+####################
+# items
+####################
+
+items {
+    I:"Book of Gears"=10011
+    I:"Camou Paste"=10002
+    I:Chisel=10012
+    I:Glue=10000
+    I:"Petrify Arrow"=10009
+    I:"Petrify Extract"=10010
+    I:"Pile of Redstone"=10003
+    I:"Redioactive Glue"=10007
+    I:"Redioactive Super Glue"=10008
+    I:Saw=10005
+    I:Spade=10006
+    I:"Super Glue"=10001
+    I:"The Tool"=10004
+}
+
+
+####################
+# tweaks
+####################
+
+tweaks {
+    # Enable to use an alternate Slimeblock recipe. (Current one conflicts with Tinkers Construct)
+    B:alternateSlimeblockRecipe=false
+
+    # Black List. All blocks listed here cannot be moved by pistons or rotators. The format is "<unloacalized name>" or "<unloacalized name>:<metadata>" devided by a ','. Don't use the prefix "tile.".
+    S:blackList=bedrock, multipart, cccomputer
+
+    # Enables recipe for creative machine.
+    B:creativeMachineRecipe=false
+
+    # Blocks listed here are treated as falling blocks (e.g. sand, gravel). The format is "<unloacalized name>" or "<unloacalized name>:<metadata>" devided by a ','. Don't use the prefix "tile.".
+    S:fallingBlockList=
+
+    # Whether machines emit smoke particles on failure.
+    B:machineSmoke=true
+
+    # Maximum amount that can be moved at once.
+    I:maxBlocksMoving=1000
+
+    # Mod Black List. Blocks added by mods listed here cannot be moved by pistons or rotators. Make sure you are using modIDs not the names.
+    S:modBlackList=
+
+    # Mod White List. Blocks added by mods listed here can be moved by pistons or rotators. Leave this empty if you don't want to use a whitelist. For vanilla blocks add "minecraft"Make sure you are using modIDs not the names.
+    S:modWhiteList=
+
+    # Whether blocks like torches that are attached to moving blocks should be moved.
+    B:moveAttached=true
+
+    # Enables this to render Slimeblocks as solid nontransparent blocks.
+    B:opaqueSlimeblocks=false
+
+    # Tries to predict the way you want to place rods and extensions.
+    B:predictPlacement=true
+
+    # Prevents statues from rendering normally. Statues will be displayed as boxes. Use this if you can't enter your world after petrifying an entitiy.
+    B:renderStatuesAsBoxes=false
+
+    # Whether or not statues will be rendered 3D inside the inventory.
+    B:renderStatuesInInventory=true
+
+    # Whether to show all available Extensions Parts in Creative Menu
+    B:showAllExtensionParts=false
+
+    # Whether to show all available Extensions in Creative Menu
+    B:showAllExtensions=true
+
+    # Whether to show all available Sails in Creative Menu
+    B:showAllSails=false
+
+    # If the creativeTab is sorted, this enables the use of new lines for every itemgroup.
+    B:sortInRows=false
+
+    # Sorts the creativeTab (ID independed).
+    B:sortTab=true
+
+    # Maximum size for statues in percent.
+    I:statueScaleMax=500
+
+    # Minimum size for statues in percent. Cannot be lower than 1.
+    I:statueScaleMin=10
+
+    # Step by which statue scale is increased/decreased.
+    I:statueScaleStep=10
+
+    # Whether statues emit smoke particles upon creation.
+    B:statueSmoke=true
+
+    # Speed by which the tool rotates blocks.
+    D:toolSpeed=6.0
+
+    # White List. All blocks listed here can be moved by pistons or rotators. Leave this empty if you don't want to use a whitelist. The format is "<unloacalized name>" or "<unloacalized name>:<metadata>" devided by a ','. Don't use the prefix "tile.".
+    S:whiteList=
+}
+
+

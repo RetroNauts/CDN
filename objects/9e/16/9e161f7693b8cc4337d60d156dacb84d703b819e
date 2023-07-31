@@ -1,0 +1,695 @@
+[
+  {
+    "_HEADER": "*****************************************",
+    "entityName": "Erebus.Woodlouse",
+    "_FOOTER": "*****************************************",
+    "_COMMENT": "Aspects are in the form aspect : value ",
+    "aspects": {}
+  },
+  {
+    "_HEADER": "*****************************************",
+    "entityName": "AnimatedChest",
+    "_FOOTER": "*****************************************",
+    "_COMMENT": "Aspects are in the form aspect : value ",
+    "aspects": {}
+  },
+  {
+    "_HEADER": "*****************************************",
+    "entityName": "Beetle - Erebus",
+    "_FOOTER": "*****************************************",
+    "_COMMENT": "Aspects are in the form aspect : value ",
+    "aspects": {}
+  },
+  {
+    "_HEADER": "*****************************************",
+    "entityName": "Erebus.FireAntSoldier",
+    "_FOOTER": "*****************************************",
+    "_COMMENT": "Aspects are in the form aspect : value ",
+    "aspects": {}
+  },
+  {
+    "_HEADER": "*****************************************",
+    "entityName": "Wasp - Erebus",
+    "_FOOTER": "*****************************************",
+    "_COMMENT": "Aspects are in the form aspect : value ",
+    "aspects": {}
+  },
+  {
+    "_HEADER": "*****************************************",
+    "entityName": "Erebus.Scorpion",
+    "_FOOTER": "*****************************************",
+    "_COMMENT": "Aspects are in the form aspect : value ",
+    "aspects": {}
+  },
+  {
+    "_HEADER": "*****************************************",
+    "entityName": "Erebus.VelvetWorm",
+    "_FOOTER": "*****************************************",
+    "_COMMENT": "Aspects are in the form aspect : value ",
+    "aspects": {}
+  },
+  {
+    "_HEADER": "*****************************************",
+    "entityName": "Tarantula - Erebus",
+    "_FOOTER": "*****************************************",
+    "_COMMENT": "Aspects are in the form aspect : value ",
+    "aspects": {}
+  },
+  {
+    "_HEADER": "*****************************************",
+    "entityName": "Erebus.ExtractedBlock",
+    "_FOOTER": "*****************************************",
+    "_COMMENT": "Aspects are in the form aspect : value ",
+    "aspects": {}
+  },
+  {
+    "_HEADER": "*****************************************",
+    "entityName": "BotFly - Erebus",
+    "_FOOTER": "*****************************************",
+    "_COMMENT": "Aspects are in the form aspect : value ",
+    "aspects": {}
+  },
+  {
+    "_HEADER": "*****************************************",
+    "entityName": "Erebus.FireAnt",
+    "_FOOTER": "*****************************************",
+    "_COMMENT": "Aspects are in the form aspect : value ",
+    "aspects": {}
+  },
+  {
+    "_HEADER": "*****************************************",
+    "entityName": "Scytodes - Erebus",
+    "_FOOTER": "*****************************************",
+    "_COMMENT": "Aspects are in the form aspect : value ",
+    "aspects": {}
+  },
+  {
+    "_HEADER": "*****************************************",
+    "entityName": "ErebusLightning",
+    "_FOOTER": "*****************************************",
+    "_COMMENT": "Aspects are in the form aspect : value ",
+    "aspects": {}
+  },
+  {
+    "_HEADER": "*****************************************",
+    "entityName": "WheatWeevil - Erebus",
+    "_FOOTER": "*****************************************",
+    "_COMMENT": "Aspects are in the form aspect : value ",
+    "aspects": {}
+  },
+  {
+    "_HEADER": "*****************************************",
+    "entityName": "Erebus.Wasp",
+    "_FOOTER": "*****************************************",
+    "_COMMENT": "Aspects are in the form aspect : value ",
+    "aspects": {}
+  },
+  {
+    "_HEADER": "*****************************************",
+    "entityName": "Erebus.BloodSnail",
+    "_FOOTER": "*****************************************",
+    "_COMMENT": "Aspects are in the form aspect : value ",
+    "aspects": {}
+  },
+  {
+    "_HEADER": "*****************************************",
+    "entityName": "AntlionMiniBoss - Erebus",
+    "_FOOTER": "*****************************************",
+    "_COMMENT": "Aspects are in the form aspect : value ",
+    "aspects": {}
+  },
+  {
+    "_HEADER": "*****************************************",
+    "entityName": "FireAntSoldier - Erebus",
+    "_FOOTER": "*****************************************",
+    "_COMMENT": "Aspects are in the form aspect : value ",
+    "aspects": {}
+  },
+  {
+    "_HEADER": "*****************************************",
+    "entityName": "Erebus.SolifugeSmall",
+    "_FOOTER": "*****************************************",
+    "_COMMENT": "Aspects are in the form aspect : value ",
+    "aspects": {}
+  },
+  {
+    "_HEADER": "*****************************************",
+    "entityName": "Fly - Erebus",
+    "_FOOTER": "*****************************************",
+    "_COMMENT": "Aspects are in the form aspect : value ",
+    "aspects": {}
+  },
+  {
+    "_HEADER": "*****************************************",
+    "entityName": "Erebus.BotFly",
+    "_FOOTER": "*****************************************",
+    "_COMMENT": "Aspects are in the form aspect : value ",
+    "aspects": {}
+  },
+  {
+    "_HEADER": "*****************************************",
+    "entityName": "Erebus.Mosquito",
+    "_FOOTER": "*****************************************",
+    "_COMMENT": "Aspects are in the form aspect : value ",
+    "aspects": {}
+  },
+  {
+    "_HEADER": "*****************************************",
+    "entityName": "Erebus.Moth",
+    "_FOOTER": "*****************************************",
+    "_COMMENT": "Aspects are in the form aspect : value ",
+    "aspects": {}
+  },
+  {
+    "_HEADER": "*****************************************",
+    "entityName": "Erebus.Sporeling",
+    "_FOOTER": "*****************************************",
+    "_COMMENT": "Aspects are in the form aspect : value ",
+    "aspects": {}
+  },
+  {
+    "_HEADER": "*****************************************",
+    "entityName": "FireAnt - Erebus",
+    "_FOOTER": "*****************************************",
+    "_COMMENT": "Aspects are in the form aspect : value ",
+    "aspects": {}
+  },
+  {
+    "_HEADER": "*****************************************",
+    "entityName": "MoneySpider - Erebus",
+    "_FOOTER": "*****************************************",
+    "_COMMENT": "Aspects are in the form aspect : value ",
+    "aspects": {}
+  },
+  {
+    "_HEADER": "*****************************************",
+    "entityName": "LavaWebSpider - Erebus",
+    "_FOOTER": "*****************************************",
+    "_COMMENT": "Aspects are in the form aspect : value ",
+    "aspects": {}
+  },
+  {
+    "_HEADER": "*****************************************",
+    "entityName": "Erebus.ChameleonTick",
+    "_FOOTER": "*****************************************",
+    "_COMMENT": "Aspects are in the form aspect : value ",
+    "aspects": {}
+  },
+  {
+    "_HEADER": "*****************************************",
+    "entityName": "Erebus.PrayingMantis",
+    "_FOOTER": "*****************************************",
+    "_COMMENT": "Aspects are in the form aspect : value ",
+    "aspects": {}
+  },
+  {
+    "_HEADER": "*****************************************",
+    "entityName": "Erebus.WebSling",
+    "_FOOTER": "*****************************************",
+    "_COMMENT": "Aspects are in the form aspect : value ",
+    "aspects": {}
+  },
+  {
+    "_HEADER": "*****************************************",
+    "entityName": "Erebus.MucusBombPrimed",
+    "_FOOTER": "*****************************************",
+    "_COMMENT": "Aspects are in the form aspect : value ",
+    "aspects": {}
+  },
+  {
+    "_HEADER": "*****************************************",
+    "entityName": "BotFlyLarva - Erebus",
+    "_FOOTER": "*****************************************",
+    "_COMMENT": "Aspects are in the form aspect : value ",
+    "aspects": {}
+  },
+  {
+    "_HEADER": "*****************************************",
+    "entityName": "Sporeling - Erebus",
+    "_FOOTER": "*****************************************",
+    "_COMMENT": "Aspects are in the form aspect : value ",
+    "aspects": {}
+  },
+  {
+    "_HEADER": "*****************************************",
+    "entityName": "Locust - Erebus",
+    "_FOOTER": "*****************************************",
+    "_COMMENT": "Aspects are in the form aspect : value ",
+    "aspects": {}
+  },
+  {
+    "_HEADER": "*****************************************",
+    "entityName": "Erebus.BombardierBeetle",
+    "_FOOTER": "*****************************************",
+    "_COMMENT": "Aspects are in the form aspect : value ",
+    "aspects": {}
+  },
+  {
+    "_HEADER": "*****************************************",
+    "entityName": "PrayingMantis - Erebus",
+    "_FOOTER": "*****************************************",
+    "_COMMENT": "Aspects are in the form aspect : value ",
+    "aspects": {}
+  },
+  {
+    "_HEADER": "*****************************************",
+    "entityName": "Erebus.WorkerBee",
+    "_FOOTER": "*****************************************",
+    "_COMMENT": "Aspects are in the form aspect : value ",
+    "aspects": {}
+  },
+  {
+    "_HEADER": "*****************************************",
+    "entityName": "Solifuge - Erebus",
+    "_FOOTER": "*****************************************",
+    "_COMMENT": "Aspects are in the form aspect : value ",
+    "aspects": {}
+  },
+  {
+    "_HEADER": "*****************************************",
+    "entityName": "WebSling",
+    "_FOOTER": "*****************************************",
+    "_COMMENT": "Aspects are in the form aspect : value ",
+    "aspects": {}
+  },
+  {
+    "_HEADER": "*****************************************",
+    "entityName": "Erebus.Locust",
+    "_FOOTER": "*****************************************",
+    "_COMMENT": "Aspects are in the form aspect : value ",
+    "aspects": {}
+  },
+  {
+    "_HEADER": "*****************************************",
+    "entityName": "BeetleLarva - Erebus",
+    "_FOOTER": "*****************************************",
+    "_COMMENT": "Aspects are in the form aspect : value ",
+    "aspects": {}
+  },
+  {
+    "_HEADER": "*****************************************",
+    "entityName": "Erebus.GlowWorm",
+    "_FOOTER": "*****************************************",
+    "_COMMENT": "Aspects are in the form aspect : value ",
+    "aspects": {}
+  },
+  {
+    "_HEADER": "*****************************************",
+    "entityName": "Erebus.Centipede",
+    "_FOOTER": "*****************************************",
+    "_COMMENT": "Aspects are in the form aspect : value ",
+    "aspects": {}
+  },
+  {
+    "_HEADER": "*****************************************",
+    "entityName": "Erebus.ErebusLightning",
+    "_FOOTER": "*****************************************",
+    "_COMMENT": "Aspects are in the form aspect : value ",
+    "aspects": {}
+  },
+  {
+    "_HEADER": "*****************************************",
+    "entityName": "Cicada - Erebus",
+    "_FOOTER": "*****************************************",
+    "_COMMENT": "Aspects are in the form aspect : value ",
+    "aspects": {}
+  },
+  {
+    "_HEADER": "*****************************************",
+    "entityName": "Centipede - Erebus",
+    "_FOOTER": "*****************************************",
+    "_COMMENT": "Aspects are in the form aspect : value ",
+    "aspects": {}
+  },
+  {
+    "_HEADER": "*****************************************",
+    "entityName": "Erebus.FireResistentItem",
+    "_FOOTER": "*****************************************",
+    "_COMMENT": "Aspects are in the form aspect : value ",
+    "aspects": {}
+  },
+  {
+    "_HEADER": "*****************************************",
+    "entityName": "Erebus.Beetle",
+    "_FOOTER": "*****************************************",
+    "_COMMENT": "Aspects are in the form aspect : value ",
+    "aspects": {}
+  },
+  {
+    "_HEADER": "*****************************************",
+    "entityName": "BlackWidow - Erebus",
+    "_FOOTER": "*****************************************",
+    "_COMMENT": "Aspects are in the form aspect : value ",
+    "aspects": {}
+  },
+  {
+    "_HEADER": "*****************************************",
+    "entityName": "WaspDagger",
+    "_FOOTER": "*****************************************",
+    "_COMMENT": "Aspects are in the form aspect : value ",
+    "aspects": {}
+  },
+  {
+    "_HEADER": "*****************************************",
+    "entityName": "Erebus.GooBall",
+    "_FOOTER": "*****************************************",
+    "_COMMENT": "Aspects are in the form aspect : value ",
+    "aspects": {}
+  },
+  {
+    "_HEADER": "*****************************************",
+    "entityName": "VelvetWorm - Erebus",
+    "_FOOTER": "*****************************************",
+    "_COMMENT": "Aspects are in the form aspect : value ",
+    "aspects": {}
+  },
+  {
+    "_HEADER": "*****************************************",
+    "entityName": "Erebus.WheatWeevil",
+    "_FOOTER": "*****************************************",
+    "_COMMENT": "Aspects are in the form aspect : value ",
+    "aspects": {}
+  },
+  {
+    "_HEADER": "*****************************************",
+    "entityName": "Antlion - Erebus",
+    "_FOOTER": "*****************************************",
+    "_COMMENT": "Aspects are in the form aspect : value ",
+    "aspects": {}
+  },
+  {
+    "_HEADER": "*****************************************",
+    "entityName": "Erebus.BotFlyLarva",
+    "_FOOTER": "*****************************************",
+    "_COMMENT": "Aspects are in the form aspect : value ",
+    "aspects": {}
+  },
+  {
+    "_HEADER": "*****************************************",
+    "entityName": "AnimatedBlock",
+    "_FOOTER": "*****************************************",
+    "_COMMENT": "Aspects are in the form aspect : value ",
+    "aspects": {}
+  },
+  {
+    "_HEADER": "*****************************************",
+    "entityName": "Erebus.AnimatedBlock",
+    "_FOOTER": "*****************************************",
+    "_COMMENT": "Aspects are in the form aspect : value ",
+    "aspects": {}
+  },
+  {
+    "_HEADER": "*****************************************",
+    "entityName": "GooBall",
+    "_FOOTER": "*****************************************",
+    "_COMMENT": "Aspects are in the form aspect : value ",
+    "aspects": {}
+  },
+  {
+    "_HEADER": "*****************************************",
+    "entityName": "Erebus.AnimatedBambooCrate",
+    "_FOOTER": "*****************************************",
+    "_COMMENT": "Aspects are in the form aspect : value ",
+    "aspects": {}
+  },
+  {
+    "_HEADER": "*****************************************",
+    "entityName": "RhinoBeetle - Erebus",
+    "_FOOTER": "*****************************************",
+    "_COMMENT": "Aspects are in the form aspect : value ",
+    "aspects": {}
+  },
+  {
+    "_HEADER": "*****************************************",
+    "entityName": "TitanBeetle - Erebus",
+    "_FOOTER": "*****************************************",
+    "_COMMENT": "Aspects are in the form aspect : value ",
+    "aspects": {}
+  },
+  {
+    "_HEADER": "*****************************************",
+    "entityName": "Erebus.Cicada",
+    "_FOOTER": "*****************************************",
+    "_COMMENT": "Aspects are in the form aspect : value ",
+    "aspects": {}
+  },
+  {
+    "_HEADER": "*****************************************",
+    "entityName": "Erebus.JumpingSpider",
+    "_FOOTER": "*****************************************",
+    "_COMMENT": "Aspects are in the form aspect : value ",
+    "aspects": {}
+  },
+  {
+    "_HEADER": "*****************************************",
+    "entityName": "ChameleonTick - Erebus",
+    "_FOOTER": "*****************************************",
+    "_COMMENT": "Aspects are in the form aspect : value ",
+    "aspects": {}
+  },
+  {
+    "_HEADER": "*****************************************",
+    "entityName": "Erebus.BeetleLarva",
+    "_FOOTER": "*****************************************",
+    "_COMMENT": "Aspects are in the form aspect : value ",
+    "aspects": {}
+  },
+  {
+    "_HEADER": "*****************************************",
+    "entityName": "UmberGolem",
+    "_FOOTER": "*****************************************",
+    "_COMMENT": "Aspects are in the form aspect : value ",
+    "aspects": {}
+  },
+  {
+    "_HEADER": "*****************************************",
+    "entityName": "Erebus.MidgeSwarm",
+    "_FOOTER": "*****************************************",
+    "_COMMENT": "Aspects are in the form aspect : value ",
+    "aspects": {}
+  },
+  {
+    "_HEADER": "*****************************************",
+    "entityName": "Erebus.MoneySpider",
+    "_FOOTER": "*****************************************",
+    "_COMMENT": "Aspects are in the form aspect : value ",
+    "aspects": {}
+  },
+  {
+    "_HEADER": "*****************************************",
+    "entityName": "Erebus.Dragonfly",
+    "_FOOTER": "*****************************************",
+    "_COMMENT": "Aspects are in the form aspect : value ",
+    "aspects": {}
+  },
+  {
+    "_HEADER": "*****************************************",
+    "entityName": "Erebus.Scytodes",
+    "_FOOTER": "*****************************************",
+    "_COMMENT": "Aspects are in the form aspect : value ",
+    "aspects": {}
+  },
+  {
+    "_HEADER": "*****************************************",
+    "entityName": "Woodlouse - Erebus",
+    "_FOOTER": "*****************************************",
+    "_COMMENT": "Aspects are in the form aspect : value ",
+    "aspects": {}
+  },
+  {
+    "_HEADER": "*****************************************",
+    "entityName": "Erebus.BlackWidow",
+    "_FOOTER": "*****************************************",
+    "_COMMENT": "Aspects are in the form aspect : value ",
+    "aspects": {}
+  },
+  {
+    "_HEADER": "*****************************************",
+    "entityName": "Erebus.Grasshopper",
+    "_FOOTER": "*****************************************",
+    "_COMMENT": "Aspects are in the form aspect : value ",
+    "aspects": {}
+  },
+  {
+    "_HEADER": "*****************************************",
+    "entityName": "Erebus.RhinoBeetle",
+    "_FOOTER": "*****************************************",
+    "_COMMENT": "Aspects are in the form aspect : value ",
+    "aspects": {}
+  },
+  {
+    "_HEADER": "*****************************************",
+    "entityName": "Moth - Erebus",
+    "_FOOTER": "*****************************************",
+    "_COMMENT": "Aspects are in the form aspect : value ",
+    "aspects": {}
+  },
+  {
+    "_HEADER": "*****************************************",
+    "entityName": "Erebus.WaspDagger",
+    "_FOOTER": "*****************************************",
+    "_COMMENT": "Aspects are in the form aspect : value ",
+    "aspects": {}
+  },
+  {
+    "_HEADER": "*****************************************",
+    "entityName": "Erebus.LavaWebSpider",
+    "_FOOTER": "*****************************************",
+    "_COMMENT": "Aspects are in the form aspect : value ",
+    "aspects": {}
+  },
+  {
+    "_HEADER": "*****************************************",
+    "entityName": "Erebus.WoodlouseBall",
+    "_FOOTER": "*****************************************",
+    "_COMMENT": "Aspects are in the form aspect : value ",
+    "aspects": {}
+  },
+  {
+    "_HEADER": "*****************************************",
+    "entityName": "Erebus.UmberGolem",
+    "_FOOTER": "*****************************************",
+    "_COMMENT": "Aspects are in the form aspect : value ",
+    "aspects": {}
+  },
+  {
+    "_HEADER": "*****************************************",
+    "entityName": "BloodSnail - Erebus",
+    "_FOOTER": "*****************************************",
+    "_COMMENT": "Aspects are in the form aspect : value ",
+    "aspects": {}
+  },
+  {
+    "_HEADER": "*****************************************",
+    "entityName": "Erebus.Solifuge",
+    "_FOOTER": "*****************************************",
+    "_COMMENT": "Aspects are in the form aspect : value ",
+    "aspects": {}
+  },
+  {
+    "_HEADER": "*****************************************",
+    "entityName": "Mosquito - Erebus",
+    "_FOOTER": "*****************************************",
+    "_COMMENT": "Aspects are in the form aspect : value ",
+    "aspects": {}
+  },
+  {
+    "_HEADER": "*****************************************",
+    "entityName": "Erebus.AntlionMiniBoss",
+    "_FOOTER": "*****************************************",
+    "_COMMENT": "Aspects are in the form aspect : value ",
+    "aspects": {}
+  },
+  {
+    "_HEADER": "*****************************************",
+    "entityName": "Scorpion - Erebus",
+    "_FOOTER": "*****************************************",
+    "_COMMENT": "Aspects are in the form aspect : value ",
+    "aspects": {}
+  },
+  {
+    "_HEADER": "*****************************************",
+    "entityName": "AnimatedBambooCrate",
+    "_FOOTER": "*****************************************",
+    "_COMMENT": "Aspects are in the form aspect : value ",
+    "aspects": {}
+  },
+  {
+    "_HEADER": "*****************************************",
+    "entityName": "Dragonfly - Erebus",
+    "_FOOTER": "*****************************************",
+    "_COMMENT": "Aspects are in the form aspect : value ",
+    "aspects": {}
+  },
+  {
+    "_HEADER": "*****************************************",
+    "entityName": "Erebus.TitanBeetle",
+    "_FOOTER": "*****************************************",
+    "_COMMENT": "Aspects are in the form aspect : value ",
+    "aspects": {}
+  },
+  {
+    "_HEADER": "*****************************************",
+    "entityName": "BombardierBeetle - Erebus",
+    "_FOOTER": "*****************************************",
+    "_COMMENT": "Aspects are in the form aspect : value ",
+    "aspects": {}
+  },
+  {
+    "_HEADER": "*****************************************",
+    "entityName": "Erebus.Fly",
+    "_FOOTER": "*****************************************",
+    "_COMMENT": "Aspects are in the form aspect : value ",
+    "aspects": {}
+  },
+  {
+    "_HEADER": "*****************************************",
+    "entityName": "JumpingSpider - Erebus",
+    "_FOOTER": "*****************************************",
+    "_COMMENT": "Aspects are in the form aspect : value ",
+    "aspects": {}
+  },
+  {
+    "_HEADER": "*****************************************",
+    "entityName": "MidgeSwarm - Erebus",
+    "_FOOTER": "*****************************************",
+    "_COMMENT": "Aspects are in the form aspect : value ",
+    "aspects": {}
+  },
+  {
+    "_HEADER": "*****************************************",
+    "entityName": "Erebus.Tarantula",
+    "_FOOTER": "*****************************************",
+    "_COMMENT": "Aspects are in the form aspect : value ",
+    "aspects": {}
+  },
+  {
+    "_HEADER": "*****************************************",
+    "entityName": "WorkerBee - Erebus",
+    "_FOOTER": "*****************************************",
+    "_COMMENT": "Aspects are in the form aspect : value ",
+    "aspects": {}
+  },
+  {
+    "_HEADER": "*****************************************",
+    "entityName": "SolifugeSmall - Erebus",
+    "_FOOTER": "*****************************************",
+    "_COMMENT": "Aspects are in the form aspect : value ",
+    "aspects": {}
+  },
+  {
+    "_HEADER": "*****************************************",
+    "entityName": "MucusBombPrimed",
+    "_FOOTER": "*****************************************",
+    "_COMMENT": "Aspects are in the form aspect : value ",
+    "aspects": {}
+  },
+  {
+    "_HEADER": "*****************************************",
+    "entityName": "GlowWorm - Erebus",
+    "_FOOTER": "*****************************************",
+    "_COMMENT": "Aspects are in the form aspect : value ",
+    "aspects": {}
+  },
+  {
+    "_HEADER": "*****************************************",
+    "entityName": "Grasshopper - Erebus",
+    "_FOOTER": "*****************************************",
+    "_COMMENT": "Aspects are in the form aspect : value ",
+    "aspects": {}
+  },
+  {
+    "_HEADER": "*****************************************",
+    "entityName": "Erebus.Antlion",
+    "_FOOTER": "*****************************************",
+    "_COMMENT": "Aspects are in the form aspect : value ",
+    "aspects": {}
+  },
+  {
+    "_HEADER": "*****************************************",
+    "entityName": "Erebus.AnimatedChest",
+    "_FOOTER": "*****************************************",
+    "_COMMENT": "Aspects are in the form aspect : value ",
+    "aspects": {}
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "_HEADER": "*****************************************",
+    "entityName": "mod_GoodNightsSleep.BabyCreeper",
+    "_FOOTER": "*****************************************",
+    "_COMMENT": "Aspects are in the form aspect : value ",
+    "aspects": {}
+  },
+  {
+    "_HEADER": "*****************************************",
+    "entityName": "mod_GoodNightsSleep.Tormenter",
+    "_FOOTER": "*****************************************",
+    "_COMMENT": "Aspects are in the form aspect : value ",
+    "aspects": {}
+  },
+  {
+    "_HEADER": "*****************************************",
+    "entityName": "mod_GoodNightsSleep.Herobrine",
+    "_FOOTER": "*****************************************",
+    "_COMMENT": "Aspects are in the form aspect : value ",
+    "aspects": {}
+  }
+]

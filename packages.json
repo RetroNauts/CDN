@@ -1,0 +1,12 @@
+{
+  "minimumVersion" : 1,
+  "packages" : [
+    {
+      "title" : "RetroNauts Presents Brightlight",
+      "name" : "Brightlight",
+      "version" : "1.0.0",
+      "location" : "brightlight.json",
+      "priority" : 0
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+# Configuration file
+
+####################
+# client
+####################
+
+client {
+    # Set to true to use the cogwheel button in the inventory, false to register a keybind
+    B:use_cogwheel=true
+}
+
+
+####################
+# server
+####################
+
+server {
+    # A comma separated list of players allowed to use comamnds. Leave empty for all OPs
+    S:command_players=
+
+    # The interval in which packets are sent to client, default is 40 ticks (2 secs)
+    I:packet_interval=40
+}
+
+

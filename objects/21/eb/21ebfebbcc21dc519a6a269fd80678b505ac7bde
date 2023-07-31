@@ -1,0 +1,59 @@
+# Configuration file
+
+####################
+# block
+####################
+
+block {
+    I:redlogic.arrayCells.id=4024
+    I:redlogic.button.id=4026
+    I:redlogic.customCircuitBlock.id=2474
+    I:redlogic.gates.id=4048
+    I:redlogic.lampCubeDecorative.id=4027
+    I:redlogic.lampCubeIndicatorOff.id=882
+    I:redlogic.lampCubeIndicatorOn.id=3104
+    I:redlogic.lampCubeOff.id=4046
+    I:redlogic.lampCubeOn.id=4047
+    I:redlogic.lampNonCube.id=1193
+    I:redlogic.machineBlock.id=1895
+    I:redlogic.plainBlock.id=4025
+    I:redlogic.wire.id=1690
+}
+
+
+####################
+# general
+####################
+
+general {
+    B:autoAssign=false
+    B:core.assumeIDResolver=true
+
+    # name of TPS command, without the slash. leave blank to disable.
+    S:core.command.tps.name=tps
+    B:core.ignoreBuildcraftCore=false
+    B:core.ignoreBuildcraftTransport=false
+    B:core.ignoreIC2=false
+
+    # advanced setting: comma-separated list of classes to ignore when generating dynamic inheritance chains
+    S:core.mictransformer.ignoredClasses=
+
+    # Which power system should be used. Possible values are: ic2 (IndustrialCraft 2's energy network), minecraftJoules (Buildcraft's power system, also used by other mods), redstoneFlux (Thermal Expansion's power system, also used by other mods), infinite (power is free)
+    S:preferredEnergySystem=ic2
+    I:redlogic.defaultTimerTicks=20
+    I:redlogic.minTimerTicks=4
+}
+
+
+####################
+# item
+####################
+
+item {
+    I:redlogic.chip=31731
+    I:redlogic.compiledCircuit=31733
+    I:redlogic.schematic=31732
+    I:redlogic.screwdriver=31734
+}
+
+

@@ -1,0 +1,1945 @@
+# Configuration file
+
+####################
+# """"""""""""""""!enable""""""""""""""""
+####################
+
+"""""""""""""""""!enable""""""""""""""""" {
+    B:"Enable Fantasy Set"=true
+    ####################
+    # """"""""""""""""enable metals""""""""""""""""
+    ####################
+
+    """""""""""""""""enable metals""""""""""""""""" {
+        B:"Enable Adamantine"=true
+        B:"Enable Astral Silver"=true
+        B:"Enable Atlarus"=true
+        B:"Enable Black Steel"=true
+        B:"Enable Carmot"=true
+        B:"Enable Celenegil"=true
+        B:"Enable Deep Iron"=true
+        B:"Enable Haderoth"=true
+        B:"Enable Infuscolium"=true
+        B:"Enable Mithril"=true
+        B:"Enable Orichalcum"=true
+        B:"Enable Oureclase"=true
+        B:"Enable Prometheum"=true
+        B:"Enable Quicksilver"=true
+        B:"Enable Rubracium"=true
+        B:"Enable Tartarite"=true
+    }
+
+}
+
+
+####################
+# 1_enable
+####################
+
+1_enable {
+    B:enable_fantasy_set=true
+    ####################
+    # enable_metals
+    ####################
+
+    enable_metals {
+        B:adamantine=true
+        B:astral_silver=true
+        B:atlarus=true
+        B:black_steel=true
+        B:carmot=true
+        B:celenegil=true
+        B:deep_iron=true
+        B:haderoth=true
+        B:infuscolium=true
+        B:mithril=true
+        B:orichalcum=true
+        B:oureclase=true
+        B:prometheum=true
+        B:quicksilver=true
+        B:rubracium=true
+        B:tartarite=true
+    }
+
+    ####################
+    # tool_recipes
+    ####################
+
+    tool_recipes {
+        B:adamantine=true
+        B:astral_silver=true
+        B:atlarus=true
+        B:black_steel=true
+        B:carmot=true
+        B:celenegil=true
+        B:deep_iron=true
+        B:haderoth=true
+        B:mithril=true
+        B:orichalcum=true
+        B:oureclase=true
+        B:prometheum=true
+        B:quicksilver=true
+        B:tartarite=true
+    }
+
+    ####################
+    # armor_recipes
+    ####################
+
+    armor_recipes {
+        B:adamantine=true
+        B:astral_silver=true
+        B:atlarus=true
+        B:black_steel=true
+        B:carmot=true
+        B:celenegil=true
+        B:deep_iron=true
+        B:haderoth=true
+        B:mithril=true
+        B:orichalcum=true
+        B:oureclase=true
+        B:prometheum=true
+        B:quicksilver=true
+        B:tartarite=true
+    }
+
+    ####################
+    # enable_world_gen
+    ####################
+
+    enable_world_gen {
+        B:adamantine=true
+        B:astral_silver=true
+        B:atlarus=true
+        B:carmot=true
+        B:deep_iron=true
+        B:infuscolium=true
+        B:mithril=true
+        B:orichalcum=true
+        B:oureclase=true
+        B:prometheum=true
+        B:rubracium=true
+    }
+
+}
+
+
+####################
+# adamantine
+####################
+
+adamantine {
+    ####################
+    # misc
+    ####################
+
+    misc {
+        I:"Block Hardness Level"=5
+        I:"abstractor xp"=6
+        I:abstractor_xp=6
+        I:block_hardness_level=5
+    }
+
+    ####################
+    # """"""""""""""""tool info""""""""""""""""
+    ####################
+
+    """""""""""""""""tool info""""""""""""""""" {
+        I:Damage=4
+        I:Durability=1550
+        I:Enchantability=22
+        I:"Pick Level"=6
+        I:Speed=10
+    }
+
+    ####################
+    # """"""""""""""""armor info""""""""""""""""
+    ####################
+
+    """""""""""""""""armor info""""""""""""""""" {
+        I:"Boots Armor"=4
+        I:"Chestplate Armor"=7
+        I:"Durability Multiplier"=38
+        I:"Helmet Armor"=5
+        I:"Leggings Armor"=6
+    }
+
+    ####################
+    # """"""""""""""""world gen""""""""""""""""
+    ####################
+
+    """""""""""""""""world gen""""""""""""""""" {
+        S:Diminsions=0 2-100000
+        I:"Dungeon Loot Amount"=0
+        I:"Dungeon Loot Chance"=0
+        I:"Max Height"=12
+        I:"Min Height"=5
+        I:"Vein Chance"=25
+        I:"Vein Density"=100
+        I:"Vein Size"=10
+        I:"Veins Per Chunk"=1
+    }
+
+    ####################
+    # tool_info
+    ####################
+
+    tool_info {
+        I:damage=4
+        I:durability=1550
+        I:enchantability=22
+        I:pick_level=6
+        I:speed=10
+    }
+
+    ####################
+    # armor_info
+    ####################
+
+    armor_info {
+        I:boots_armor=4
+        I:chestplate_armor=7
+        I:durability_multiplier=38
+        I:helmet_armor=5
+        I:leggings_armor=6
+    }
+
+    ####################
+    # world_gen
+    ####################
+
+    world_gen {
+        S:diminsions=0 2-100000
+        I:dungeon_loot_amount=0
+        I:dungeon_loot_chance=0
+        I:max_height=128
+        I:min_height=0
+        I:vein_chance=50
+        I:vein_density=100
+        I:vein_size=3
+        I:veins_per_chunk=2
+    }
+
+}
+
+
+####################
+# """"""""""""""""astral silver""""""""""""""""
+####################
+
+"""""""""""""""""astral silver""""""""""""""""" {
+    ####################
+    # misc
+    ####################
+
+    misc {
+        I:"Block Hardness Level"=3
+        I:"abstractor xp"=11
+    }
+
+    ####################
+    # """"""""""""""""tool info""""""""""""""""
+    ####################
+
+    """""""""""""""""tool info""""""""""""""""" {
+        I:Damage=1
+        I:Durability=35
+        I:Enchantability=30
+        I:"Pick Level"=4
+        I:Speed=12
+    }
+
+    ####################
+    # """"""""""""""""armor info""""""""""""""""
+    ####################
+
+    """""""""""""""""armor info""""""""""""""""" {
+        I:"Boots Armor"=2
+        I:"Chestplate Armor"=6
+        I:"Durability Multiplier"=10
+        I:"Helmet Armor"=2
+        I:"Leggings Armor"=5
+    }
+
+    ####################
+    # """"""""""""""""world gen""""""""""""""""
+    ####################
+
+    """""""""""""""""world gen""""""""""""""""" {
+        S:Diminsions=0 2-100000
+        I:"Dungeon Loot Amount"=0
+        I:"Dungeon Loot Chance"=0
+        I:"Max Height"=27
+        I:"Min Height"=14
+        I:"Vein Chance"=25
+        I:"Vein Density"=100
+        I:"Vein Size"=12
+        I:"Veins Per Chunk"=1
+    }
+
+}
+
+
+####################
+# astral_silver
+####################
+
+astral_silver {
+    ####################
+    # misc
+    ####################
+
+    misc {
+        I:abstractor_xp=11
+        I:block_hardness_level=3
+    }
+
+    ####################
+    # tool_info
+    ####################
+
+    tool_info {
+        I:damage=1
+        I:durability=35
+        I:enchantability=30
+        I:pick_level=4
+        I:speed=12
+    }
+
+    ####################
+    # armor_info
+    ####################
+
+    armor_info {
+        I:boots_armor=2
+        I:chestplate_armor=6
+        I:durability_multiplier=10
+        I:helmet_armor=2
+        I:leggings_armor=5
+    }
+
+    ####################
+    # world_gen
+    ####################
+
+    world_gen {
+        S:diminsions=0 2-100000
+        I:dungeon_loot_amount=0
+        I:dungeon_loot_chance=0
+        I:max_height=128
+        I:min_height=0
+        I:vein_chance=100
+        I:vein_density=100
+        I:vein_size=3
+        I:veins_per_chunk=4
+    }
+
+}
+
+
+####################
+# atlarus
+####################
+
+atlarus {
+    ####################
+    # misc
+    ####################
+
+    misc {
+        I:"Block Hardness Level"=5
+        I:"abstractor xp"=7
+        I:abstractor_xp=7
+        I:block_hardness_level=5
+    }
+
+    ####################
+    # """"""""""""""""tool info""""""""""""""""
+    ####################
+
+    """""""""""""""""tool info""""""""""""""""" {
+        I:Damage=4
+        I:Durability=1750
+        I:Enchantability=22
+        I:"Pick Level"=6
+        I:Speed=10
+    }
+
+    ####################
+    # """"""""""""""""armor info""""""""""""""""
+    ####################
+
+    """""""""""""""""armor info""""""""""""""""" {
+        I:"Boots Armor"=4
+        I:"Chestplate Armor"=7
+        I:"Durability Multiplier"=40
+        I:"Helmet Armor"=5
+        I:"Leggings Armor"=6
+    }
+
+    ####################
+    # """"""""""""""""world gen""""""""""""""""
+    ####################
+
+    """""""""""""""""world gen""""""""""""""""" {
+        S:Diminsions=0 2-100000
+        I:"Dungeon Loot Amount"=0
+        I:"Dungeon Loot Chance"=0
+        I:"Max Height"=42
+        I:"Min Height"=29
+        I:"Vein Chance"=25
+        I:"Vein Density"=100
+        I:"Vein Size"=9
+        I:"Veins Per Chunk"=1
+    }
+
+    ####################
+    # tool_info
+    ####################
+
+    tool_info {
+        I:damage=4
+        I:durability=1750
+        I:enchantability=22
+        I:pick_level=6
+        I:speed=10
+    }
+
+    ####################
+    # armor_info
+    ####################
+
+    armor_info {
+        I:boots_armor=4
+        I:chestplate_armor=7
+        I:durability_multiplier=40
+        I:helmet_armor=5
+        I:leggings_armor=6
+    }
+
+    ####################
+    # world_gen
+    ####################
+
+    world_gen {
+        S:diminsions=0 2-100000
+        I:dungeon_loot_amount=0
+        I:dungeon_loot_chance=0
+        I:max_height=128
+        I:min_height=0
+        I:vein_chance=50
+        I:vein_density=100
+        I:vein_size=3
+        I:veins_per_chunk=2
+    }
+
+}
+
+
+####################
+# """"""""""""""""black steel""""""""""""""""
+####################
+
+"""""""""""""""""black steel""""""""""""""""" {
+    ####################
+    # misc
+    ####################
+
+    misc {
+        I:"Block Hardness Level"=1
+        I:"abstractor xp"=4
+    }
+
+    ####################
+    # """"""""""""""""tool info""""""""""""""""
+    ####################
+
+    """""""""""""""""tool info""""""""""""""""" {
+        I:Damage=2
+        I:Durability=500
+        I:Enchantability=17
+        I:"Pick Level"=2
+        I:Speed=8
+    }
+
+    ####################
+    # """"""""""""""""armor info""""""""""""""""
+    ####################
+
+    """""""""""""""""armor info""""""""""""""""" {
+        I:"Boots Armor"=3
+        I:"Chestplate Armor"=6
+        I:"Durability Multiplier"=14
+        I:"Helmet Armor"=3
+        I:"Leggings Armor"=5
+    }
+
+    ####################
+    # """"""""""""""""world gen""""""""""""""""
+    ####################
+
+    """""""""""""""""world gen""""""""""""""""" {
+        I:"Dungeon Loot Amount"=0
+        I:"Dungeon Loot Chance"=0
+    }
+
+}
+
+
+####################
+# black_steel
+####################
+
+black_steel {
+    ####################
+    # misc
+    ####################
+
+    misc {
+        I:abstractor_xp=4
+        I:block_hardness_level=1
+    }
+
+    ####################
+    # tool_info
+    ####################
+
+    tool_info {
+        I:damage=2
+        I:durability=500
+        I:enchantability=17
+        I:pick_level=2
+        I:speed=8
+    }
+
+    ####################
+    # armor_info
+    ####################
+
+    armor_info {
+        I:boots_armor=3
+        I:chestplate_armor=6
+        I:durability_multiplier=14
+        I:helmet_armor=3
+        I:leggings_armor=5
+    }
+
+    ####################
+    # world_gen
+    ####################
+
+    world_gen {
+        I:dungeon_loot_amount=0
+        I:dungeon_loot_chance=0
+    }
+
+}
+
+
+####################
+# block
+####################
+
+block {
+    I:Block=907
+    I:Brick=908
+    I:Ore=906
+    I:block=912
+    I:brick=913
+    I:ore=911
+}
+
+
+####################
+# carmot
+####################
+
+carmot {
+    ####################
+    # misc
+    ####################
+
+    misc {
+        I:"Block Hardness Level"=3
+        I:"abstractor xp"=15
+        I:abstractor_xp=15
+        I:block_hardness_level=3
+    }
+
+    ####################
+    # """"""""""""""""tool info""""""""""""""""
+    ####################
+
+    """""""""""""""""tool info""""""""""""""""" {
+        I:Damage=1
+        I:Durability=50
+        I:Enchantability=40
+        I:"Pick Level"=4
+        I:Speed=12
+    }
+
+    ####################
+    # """"""""""""""""armor info""""""""""""""""
+    ####################
+
+    """""""""""""""""armor info""""""""""""""""" {
+        I:"Boots Armor"=3
+        I:"Chestplate Armor"=6
+        I:"Durability Multiplier"=12
+        I:"Helmet Armor"=3
+        I:"Leggings Armor"=5
+    }
+
+    ####################
+    # """"""""""""""""world gen""""""""""""""""
+    ####################
+
+    """""""""""""""""world gen""""""""""""""""" {
+        S:Diminsions=0 2-100000
+        I:"Dungeon Loot Amount"=0
+        I:"Dungeon Loot Chance"=0
+        I:"Max Height"=51
+        I:"Min Height"=42
+        I:"Vein Chance"=25
+        I:"Vein Density"=100
+        I:"Vein Size"=12
+        I:"Veins Per Chunk"=1
+    }
+
+    ####################
+    # tool_info
+    ####################
+
+    tool_info {
+        I:damage=1
+        I:durability=50
+        I:enchantability=40
+        I:pick_level=4
+        I:speed=12
+    }
+
+    ####################
+    # armor_info
+    ####################
+
+    armor_info {
+        I:boots_armor=3
+        I:chestplate_armor=6
+        I:durability_multiplier=12
+        I:helmet_armor=3
+        I:leggings_armor=5
+    }
+
+    ####################
+    # world_gen
+    ####################
+
+    world_gen {
+        S:diminsions=0 2-100000
+        I:dungeon_loot_amount=0
+        I:dungeon_loot_chance=0
+        I:max_height=128
+        I:min_height=0
+        I:vein_chance=100
+        I:vein_density=100
+        I:vein_size=3
+        I:veins_per_chunk=3
+    }
+
+}
+
+
+####################
+# celenegil
+####################
+
+celenegil {
+    ####################
+    # misc
+    ####################
+
+    misc {
+        I:"Block Hardness Level"=4
+        I:"abstractor xp"=25
+        I:abstractor_xp=25
+        I:block_hardness_level=4
+    }
+
+    ####################
+    # """"""""""""""""tool info""""""""""""""""
+    ####################
+
+    """""""""""""""""tool info""""""""""""""""" {
+        I:Damage=3
+        I:Durability=1600
+        I:Enchantability=50
+        I:"Pick Level"=5
+        I:Speed=14
+    }
+
+    ####################
+    # """"""""""""""""armor info""""""""""""""""
+    ####################
+
+    """""""""""""""""armor info""""""""""""""""" {
+        I:"Boots Armor"=4
+        I:"Chestplate Armor"=7
+        I:"Durability Multiplier"=36
+        I:"Helmet Armor"=5
+        I:"Leggings Armor"=6
+    }
+
+    ####################
+    # """"""""""""""""world gen""""""""""""""""
+    ####################
+
+    """""""""""""""""world gen""""""""""""""""" {
+        I:"Dungeon Loot Amount"=0
+        I:"Dungeon Loot Chance"=0
+    }
+
+    ####################
+    # tool_info
+    ####################
+
+    tool_info {
+        I:damage=3
+        I:durability=1600
+        I:enchantability=50
+        I:pick_level=5
+        I:speed=14
+    }
+
+    ####################
+    # armor_info
+    ####################
+
+    armor_info {
+        I:boots_armor=4
+        I:chestplate_armor=7
+        I:durability_multiplier=36
+        I:helmet_armor=5
+        I:leggings_armor=6
+    }
+
+    ####################
+    # world_gen
+    ####################
+
+    world_gen {
+        I:dungeon_loot_amount=0
+        I:dungeon_loot_chance=0
+    }
+
+}
+
+
+####################
+# """"""""""""""""deep iron""""""""""""""""
+####################
+
+"""""""""""""""""deep iron""""""""""""""""" {
+    ####################
+    # misc
+    ####################
+
+    misc {
+        I:"Block Hardness Level"=1
+        I:"abstractor xp"=2
+    }
+
+    ####################
+    # """"""""""""""""tool info""""""""""""""""
+    ####################
+
+    """""""""""""""""tool info""""""""""""""""" {
+        I:Damage=2
+        I:Durability=250
+        I:Enchantability=14
+        I:"Pick Level"=2
+        I:Speed=6
+    }
+
+    ####################
+    # """"""""""""""""armor info""""""""""""""""
+    ####################
+
+    """""""""""""""""armor info""""""""""""""""" {
+        I:"Boots Armor"=2
+        I:"Chestplate Armor"=6
+        I:"Durability Multiplier"=14
+        I:"Helmet Armor"=2
+        I:"Leggings Armor"=5
+    }
+
+    ####################
+    # """"""""""""""""world gen""""""""""""""""
+    ####################
+
+    """""""""""""""""world gen""""""""""""""""" {
+        S:Diminsions=0 2-100000
+        I:"Dungeon Loot Amount"=0
+        I:"Dungeon Loot Chance"=0
+        I:"Max Height"=17
+        I:"Min Height"=8
+        I:"Vein Chance"=25
+        I:"Vein Density"=100
+        I:"Vein Size"=8
+        I:"Veins Per Chunk"=2
+    }
+
+}
+
+
+####################
+# deep_iron
+####################
+
+deep_iron {
+    ####################
+    # misc
+    ####################
+
+    misc {
+        I:abstractor_xp=2
+        I:block_hardness_level=1
+    }
+
+    ####################
+    # tool_info
+    ####################
+
+    tool_info {
+        I:damage=2
+        I:durability=250
+        I:enchantability=14
+        I:pick_level=2
+        I:speed=6
+    }
+
+    ####################
+    # armor_info
+    ####################
+
+    armor_info {
+        I:boots_armor=2
+        I:chestplate_armor=6
+        I:durability_multiplier=14
+        I:helmet_armor=2
+        I:leggings_armor=5
+    }
+
+    ####################
+    # world_gen
+    ####################
+
+    world_gen {
+        S:diminsions=0 2-100000
+        I:dungeon_loot_amount=0
+        I:dungeon_loot_chance=0
+        I:max_height=128
+        I:min_height=0
+        I:vein_chance=100
+        I:vein_density=100
+        I:vein_size=4
+        I:veins_per_chunk=5
+    }
+
+}
+
+
+####################
+# haderoth
+####################
+
+haderoth {
+    ####################
+    # misc
+    ####################
+
+    misc {
+        I:"Block Hardness Level"=3
+        I:"abstractor xp"=6
+        I:abstractor_xp=6
+        I:block_hardness_level=3
+    }
+
+    ####################
+    # """"""""""""""""tool info""""""""""""""""
+    ####################
+
+    """""""""""""""""tool info""""""""""""""""" {
+        I:Damage=3
+        I:Durability=1250
+        I:Enchantability=19
+        I:"Pick Level"=4
+        I:Speed=12
+    }
+
+    ####################
+    # """"""""""""""""armor info""""""""""""""""
+    ####################
+
+    """""""""""""""""armor info""""""""""""""""" {
+        I:"Boots Armor"=4
+        I:"Chestplate Armor"=7
+        I:"Durability Multiplier"=32
+        I:"Helmet Armor"=4
+        I:"Leggings Armor"=5
+    }
+
+    ####################
+    # """"""""""""""""world gen""""""""""""""""
+    ####################
+
+    """""""""""""""""world gen""""""""""""""""" {
+        I:"Dungeon Loot Amount"=0
+        I:"Dungeon Loot Chance"=0
+    }
+
+    ####################
+    # tool_info
+    ####################
+
+    tool_info {
+        I:damage=3
+        I:durability=1250
+        I:enchantability=19
+        I:pick_level=4
+        I:speed=12
+    }
+
+    ####################
+    # armor_info
+    ####################
+
+    armor_info {
+        I:boots_armor=4
+        I:chestplate_armor=7
+        I:durability_multiplier=32
+        I:helmet_armor=4
+        I:leggings_armor=5
+    }
+
+    ####################
+    # world_gen
+    ####################
+
+    world_gen {
+        I:dungeon_loot_amount=0
+        I:dungeon_loot_chance=0
+    }
+
+}
+
+
+####################
+# infuscolium
+####################
+
+infuscolium {
+    ####################
+    # misc
+    ####################
+
+    misc {
+        I:"Block Hardness Level"=1
+        I:"abstractor xp"=2
+        I:abstractor_xp=2
+        I:block_hardness_level=1
+    }
+
+    ####################
+    # """"""""""""""""world gen""""""""""""""""
+    ####################
+
+    """""""""""""""""world gen""""""""""""""""" {
+        S:Diminsions=0 2-100000
+        I:"Dungeon Loot Amount"=0
+        I:"Dungeon Loot Chance"=0
+        I:"Max Height"=36
+        I:"Min Height"=28
+        I:"Vein Chance"=25
+        I:"Vein Density"=100
+        I:"Vein Size"=8
+        I:"Veins Per Chunk"=2
+    }
+
+    ####################
+    # world_gen
+    ####################
+
+    world_gen {
+        S:diminsions=0 2-100000
+        I:dungeon_loot_amount=0
+        I:dungeon_loot_chance=0
+        I:max_height=128
+        I:min_height=0
+        I:vein_chance=100
+        I:vein_density=100
+        I:vein_size=4
+        I:veins_per_chunk=5
+    }
+
+}
+
+
+####################
+# item
+####################
+
+item {
+    I:"Adamantine Axe"=26121
+    I:"Adamantine Boots"=26122
+    I:"Adamantine Chest"=26123
+    I:"Adamantine Dust"=26124
+    I:"Adamantine Helmet"=26125
+    I:"Adamantine Hoe"=26126
+    I:"Adamantine Ingot"=26127
+    I:"Adamantine Legs"=26128
+    I:"Adamantine Pickaxe"=26129
+    I:"Adamantine Shovel"=26130
+    I:"Adamantine Sword"=26131
+    I:"Astral Silver Axe"=26132
+    I:"Astral Silver Boots"=26133
+    I:"Astral Silver Chest"=26134
+    I:"Astral Silver Dust"=26135
+    I:"Astral Silver Helmet"=26136
+    I:"Astral Silver Hoe"=26137
+    I:"Astral Silver Ingot"=26138
+    I:"Astral Silver Legs"=26139
+    I:"Astral Silver Pickaxe"=26140
+    I:"Astral Silver Shovel"=26141
+    I:"Astral Silver Sword"=26142
+    I:"Atlarus Axe"=26143
+    I:"Atlarus Boots"=26144
+    I:"Atlarus Chest"=26145
+    I:"Atlarus Dust"=26146
+    I:"Atlarus Helmet"=26147
+    I:"Atlarus Hoe"=26148
+    I:"Atlarus Ingot"=26149
+    I:"Atlarus Legs"=26150
+    I:"Atlarus Pickaxe"=26151
+    I:"Atlarus Shovel"=26152
+    I:"Atlarus Sword"=26153
+    I:"Black Steel Axe"=26154
+    I:"Black Steel Boots"=26155
+    I:"Black Steel Chest"=26156
+    I:"Black Steel Dust"=26157
+    I:"Black Steel Helmet"=26158
+    I:"Black Steel Hoe"=26159
+    I:"Black Steel Ingot"=26160
+    I:"Black Steel Legs"=26161
+    I:"Black Steel Pickaxe"=26162
+    I:"Black Steel Shovel"=26163
+    I:"Black Steel Sword"=26164
+    I:"Carmot Axe"=26165
+    I:"Carmot Boots"=26166
+    I:"Carmot Chest"=26167
+    I:"Carmot Dust"=26168
+    I:"Carmot Helmet"=26169
+    I:"Carmot Hoe"=26170
+    I:"Carmot Ingot"=26171
+    I:"Carmot Legs"=26172
+    I:"Carmot Pickaxe"=26173
+    I:"Carmot Shovel"=26174
+    I:"Carmot Sword"=26175
+    I:"Celenegil Axe"=26176
+    I:"Celenegil Boots"=26177
+    I:"Celenegil Chest"=26178
+    I:"Celenegil Dust"=26179
+    I:"Celenegil Helmet"=26180
+    I:"Celenegil Hoe"=26181
+    I:"Celenegil Ingot"=26182
+    I:"Celenegil Legs"=26183
+    I:"Celenegil Pickaxe"=26184
+    I:"Celenegil Shovel"=26185
+    I:"Celenegil Sword"=26186
+    I:"Deep Iron Axe"=26187
+    I:"Deep Iron Boots"=26188
+    I:"Deep Iron Chest"=26189
+    I:"Deep Iron Dust"=26190
+    I:"Deep Iron Helmet"=26191
+    I:"Deep Iron Hoe"=26192
+    I:"Deep Iron Ingot"=26193
+    I:"Deep Iron Legs"=26194
+    I:"Deep Iron Pickaxe"=26195
+    I:"Deep Iron Shovel"=26196
+    I:"Deep Iron Sword"=26197
+    I:"Haderoth Axe"=26198
+    I:"Haderoth Boots"=26199
+    I:"Haderoth Chest"=26200
+    I:"Haderoth Dust"=26201
+    I:"Haderoth Helmet"=26202
+    I:"Haderoth Hoe"=26203
+    I:"Haderoth Ingot"=26204
+    I:"Haderoth Legs"=26205
+    I:"Haderoth Pickaxe"=26206
+    I:"Haderoth Shovel"=26207
+    I:"Haderoth Sword"=26208
+    I:"Infuscolium Axe"=26209
+    I:"Infuscolium Boots"=26210
+    I:"Infuscolium Chest"=26211
+    I:"Infuscolium Dust"=26212
+    I:"Infuscolium Helmet"=26213
+    I:"Infuscolium Hoe"=26214
+    I:"Infuscolium Ingot"=26215
+    I:"Infuscolium Legs"=26216
+    I:"Infuscolium Pickaxe"=26217
+    I:"Infuscolium Shovel"=26218
+    I:"Infuscolium Sword"=26219
+    I:"Mithril Axe"=26220
+    I:"Mithril Boots"=26221
+    I:"Mithril Chest"=26222
+    I:"Mithril Dust"=26223
+    I:"Mithril Helmet"=26224
+    I:"Mithril Hoe"=26225
+    I:"Mithril Ingot"=26226
+    I:"Mithril Legs"=26227
+    I:"Mithril Pickaxe"=26228
+    I:"Mithril Shovel"=26229
+    I:"Mithril Sword"=26230
+    I:"Orichalcum Axe"=26231
+    I:"Orichalcum Boots"=26232
+    I:"Orichalcum Chest"=26233
+    I:"Orichalcum Dust"=26234
+    I:"Orichalcum Helmet"=26235
+    I:"Orichalcum Hoe"=26236
+    I:"Orichalcum Ingot"=26237
+    I:"Orichalcum Legs"=26238
+    I:"Orichalcum Pickaxe"=26239
+    I:"Orichalcum Shovel"=26240
+    I:"Orichalcum Sword"=26241
+    I:"Oureclase Axe"=26242
+    I:"Oureclase Boots"=26243
+    I:"Oureclase Chest"=26244
+    I:"Oureclase Dust"=26245
+    I:"Oureclase Helmet"=26246
+    I:"Oureclase Hoe"=26247
+    I:"Oureclase Ingot"=26248
+    I:"Oureclase Legs"=26249
+    I:"Oureclase Pickaxe"=26250
+    I:"Oureclase Shovel"=26251
+    I:"Oureclase Sword"=26252
+    I:"Prometheum Axe"=26253
+    I:"Prometheum Boots"=26254
+    I:"Prometheum Chest"=26255
+    I:"Prometheum Dust"=26256
+    I:"Prometheum Helmet"=26257
+    I:"Prometheum Hoe"=26258
+    I:"Prometheum Ingot"=26259
+    I:"Prometheum Legs"=26260
+    I:"Prometheum Pickaxe"=26261
+    I:"Prometheum Shovel"=26262
+    I:"Prometheum Sword"=26263
+    I:"Quicksilver Axe"=26264
+    I:"Quicksilver Boots"=26265
+    I:"Quicksilver Chest"=26266
+    I:"Quicksilver Dust"=26267
+    I:"Quicksilver Helmet"=26268
+    I:"Quicksilver Hoe"=26269
+    I:"Quicksilver Ingot"=26270
+    I:"Quicksilver Legs"=26271
+    I:"Quicksilver Pickaxe"=26272
+    I:"Quicksilver Shovel"=26273
+    I:"Quicksilver Sword"=26274
+    I:"Rubracium Axe"=26275
+    I:"Rubracium Boots"=26276
+    I:"Rubracium Chest"=26277
+    I:"Rubracium Dust"=26278
+    I:"Rubracium Helmet"=26279
+    I:"Rubracium Hoe"=26280
+    I:"Rubracium Ingot"=26281
+    I:"Rubracium Legs"=26282
+    I:"Rubracium Pickaxe"=26283
+    I:"Rubracium Shovel"=26284
+    I:"Rubracium Sword"=26285
+    I:"Tartarite Axe"=26286
+    I:"Tartarite Boots"=26287
+    I:"Tartarite Chest"=26288
+    I:"Tartarite Dust"=26289
+    I:"Tartarite Helmet"=26290
+    I:"Tartarite Hoe"=26291
+    I:"Tartarite Ingot"=26292
+    I:"Tartarite Legs"=26293
+    I:"Tartarite Pickaxe"=26294
+    I:"Tartarite Shovel"=26295
+    I:"Tartarite Sword"=26517
+    I:adamantine_axe=28204
+    I:adamantine_boots=28210
+    I:adamantine_chest=28208
+    I:adamantine_dust=28200
+    I:adamantine_helmet=28207
+    I:adamantine_hoe=28205
+    I:adamantine_ingot=28201
+    I:adamantine_legs=28209
+    I:adamantine_pickaxe=28202
+    I:adamantine_shovel=28203
+    I:adamantine_sword=28206
+    I:astral_silver_axe=27804
+    I:astral_silver_boots=27810
+    I:astral_silver_chest=27808
+    I:astral_silver_dust=27800
+    I:astral_silver_helmet=27807
+    I:astral_silver_hoe=27805
+    I:astral_silver_ingot=27801
+    I:astral_silver_legs=27809
+    I:astral_silver_pickaxe=27802
+    I:astral_silver_shovel=27803
+    I:astral_silver_sword=27806
+    I:atlarus_axe=28254
+    I:atlarus_boots=28260
+    I:atlarus_chest=28258
+    I:atlarus_dust=28250
+    I:atlarus_helmet=28257
+    I:atlarus_hoe=28255
+    I:atlarus_ingot=28251
+    I:atlarus_legs=28259
+    I:atlarus_pickaxe=28252
+    I:atlarus_shovel=28253
+    I:atlarus_sword=28256
+    I:black_steel_axe=27704
+    I:black_steel_boots=27710
+    I:black_steel_chest=27708
+    I:black_steel_dust=27700
+    I:black_steel_helmet=27707
+    I:black_steel_hoe=27705
+    I:black_steel_ingot=27701
+    I:black_steel_legs=27709
+    I:black_steel_pickaxe=27702
+    I:black_steel_shovel=27703
+    I:black_steel_sword=27706
+    I:carmot_axe=27854
+    I:carmot_boots=27860
+    I:carmot_chest=27858
+    I:carmot_dust=27850
+    I:carmot_helmet=27857
+    I:carmot_hoe=27855
+    I:carmot_ingot=27851
+    I:carmot_legs=27859
+    I:carmot_pickaxe=27852
+    I:carmot_shovel=27853
+    I:carmot_sword=27856
+    I:celenegil_axe=28154
+    I:celenegil_boots=28160
+    I:celenegil_chest=28158
+    I:celenegil_dust=28150
+    I:celenegil_helmet=28157
+    I:celenegil_hoe=28155
+    I:celenegil_ingot=28151
+    I:celenegil_legs=28159
+    I:celenegil_pickaxe=28152
+    I:celenegil_shovel=28153
+    I:celenegil_sword=28156
+    I:deep_iron_axe=27604
+    I:deep_iron_boots=27610
+    I:deep_iron_chest=27608
+    I:deep_iron_dust=27600
+    I:deep_iron_helmet=27607
+    I:deep_iron_hoe=27605
+    I:deep_iron_ingot=27601
+    I:deep_iron_legs=27609
+    I:deep_iron_pickaxe=27602
+    I:deep_iron_shovel=27603
+    I:deep_iron_sword=27606
+    I:haderoth_axe=28054
+    I:haderoth_boots=28060
+    I:haderoth_chest=28058
+    I:haderoth_dust=28050
+    I:haderoth_helmet=28057
+    I:haderoth_hoe=28055
+    I:haderoth_ingot=28051
+    I:haderoth_legs=28059
+    I:haderoth_pickaxe=28052
+    I:haderoth_shovel=28053
+    I:haderoth_sword=28056
+    I:infuscolium_dust=27650
+    I:infuscolium_ingot=27651
+    I:mithril_axe=31659
+    I:mithril_boots=27910
+    I:mithril_chest=27908
+    I:mithril_dust=31663
+    I:mithril_helmet=27907
+    I:mithril_hoe=27905
+    I:mithril_ingot=31662
+    I:mithril_legs=27909
+    I:mithril_pickaxe=31660
+    I:mithril_shovel=31661
+    I:mithril_sword=27906
+    I:orichalcum_axe=28104
+    I:orichalcum_boots=28110
+    I:orichalcum_chest=28108
+    I:orichalcum_dust=28100
+    I:orichalcum_helmet=28107
+    I:orichalcum_hoe=28105
+    I:orichalcum_ingot=28101
+    I:orichalcum_legs=28109
+    I:orichalcum_pickaxe=28102
+    I:orichalcum_shovel=28103
+    I:orichalcum_sword=28106
+    I:oureclase_axe=27754
+    I:oureclase_boots=27760
+    I:oureclase_chest=27758
+    I:oureclase_dust=27750
+    I:oureclase_helmet=27757
+    I:oureclase_hoe=27755
+    I:oureclase_ingot=27751
+    I:oureclase_legs=27759
+    I:oureclase_pickaxe=27752
+    I:oureclase_shovel=27753
+    I:oureclase_sword=27756
+    I:prometheum_axe=27554
+    I:prometheum_boots=27560
+    I:prometheum_chest=27558
+    I:prometheum_dust=27550
+    I:prometheum_helmet=27557
+    I:prometheum_hoe=27555
+    I:prometheum_ingot=27551
+    I:prometheum_legs=27559
+    I:prometheum_pickaxe=27552
+    I:prometheum_shovel=27553
+    I:prometheum_sword=27556
+    I:quicksilver_axe=28004
+    I:quicksilver_boots=28010
+    I:quicksilver_chest=28008
+    I:quicksilver_dust=28000
+    I:quicksilver_helmet=28007
+    I:quicksilver_hoe=28005
+    I:quicksilver_ingot=28001
+    I:quicksilver_legs=28009
+    I:quicksilver_pickaxe=28002
+    I:quicksilver_shovel=28003
+    I:quicksilver_sword=28006
+    I:rubracium_dust=27950
+    I:rubracium_ingot=27951
+    I:tartarite_axe=28304
+    I:tartarite_boots=28310
+    I:tartarite_chest=28308
+    I:tartarite_dust=28300
+    I:tartarite_helmet=28307
+    I:tartarite_hoe=28305
+    I:tartarite_ingot=28301
+    I:tartarite_legs=28309
+    I:tartarite_pickaxe=28302
+    I:tartarite_shovel=28303
+    I:tartarite_sword=28306
+}
+
+
+####################
+# mithril
+####################
+
+mithril {
+    ####################
+    # misc
+    ####################
+
+    misc {
+        I:"Block Hardness Level"=3
+        I:"abstractor xp"=4
+        I:abstractor_xp=4
+        I:block_hardness_level=3
+    }
+
+    ####################
+    # """"""""""""""""tool info""""""""""""""""
+    ####################
+
+    """""""""""""""""tool info""""""""""""""""" {
+        I:Damage=3
+        I:Durability=1000
+        I:Enchantability=18
+        I:"Pick Level"=4
+        I:Speed=9
+    }
+
+    ####################
+    # """"""""""""""""armor info""""""""""""""""
+    ####################
+
+    """""""""""""""""armor info""""""""""""""""" {
+        I:"Boots Armor"=4
+        I:"Chestplate Armor"=6
+        I:"Durability Multiplier"=28
+        I:"Helmet Armor"=4
+        I:"Leggings Armor"=5
+    }
+
+    ####################
+    # """"""""""""""""world gen""""""""""""""""
+    ####################
+
+    """""""""""""""""world gen""""""""""""""""" {
+        S:Diminsions=0 2-100000
+        I:"Dungeon Loot Amount"=0
+        I:"Dungeon Loot Chance"=0
+        I:"Max Height"=62
+        I:"Min Height"=54
+        I:"Vein Chance"=25
+        I:"Vein Density"=100
+        I:"Vein Size"=8
+        I:"Veins Per Chunk"=1
+    }
+
+    ####################
+    # tool_info
+    ####################
+
+    tool_info {
+        I:damage=3
+        I:durability=1000
+        I:enchantability=18
+        I:pick_level=4
+        I:speed=9
+    }
+
+    ####################
+    # armor_info
+    ####################
+
+    armor_info {
+        I:boots_armor=4
+        I:chestplate_armor=6
+        I:durability_multiplier=28
+        I:helmet_armor=4
+        I:leggings_armor=5
+    }
+
+    ####################
+    # world_gen
+    ####################
+
+    world_gen {
+        S:diminsions=0 2-100000
+        I:dungeon_loot_amount=0
+        I:dungeon_loot_chance=0
+        I:max_height=128
+        I:min_height=0
+        I:vein_chance=100
+        I:vein_density=100
+        I:vein_size=3
+        I:veins_per_chunk=3
+    }
+
+}
+
+
+####################
+# orichalcum
+####################
+
+orichalcum {
+    ####################
+    # misc
+    ####################
+
+    misc {
+        I:"Block Hardness Level"=4
+        I:"abstractor xp"=5
+        I:abstractor_xp=5
+        I:block_hardness_level=4
+    }
+
+    ####################
+    # """"""""""""""""tool info""""""""""""""""
+    ####################
+
+    """""""""""""""""tool info""""""""""""""""" {
+        I:Damage=3
+        I:Durability=1350
+        I:Enchantability=20
+        I:"Pick Level"=5
+        I:Speed=9
+    }
+
+    ####################
+    # """"""""""""""""armor info""""""""""""""""
+    ####################
+
+    """""""""""""""""armor info""""""""""""""""" {
+        I:"Boots Armor"=4
+        I:"Chestplate Armor"=7
+        I:"Durability Multiplier"=35
+        I:"Helmet Armor"=4
+        I:"Leggings Armor"=6
+    }
+
+    ####################
+    # """"""""""""""""world gen""""""""""""""""
+    ####################
+
+    """""""""""""""""world gen""""""""""""""""" {
+        S:Diminsions=0 2-100000
+        I:"Dungeon Loot Amount"=0
+        I:"Dungeon Loot Chance"=0
+        I:"Max Height"=46
+        I:"Min Height"=38
+        I:"Vein Chance"=25
+        I:"Vein Density"=100
+        I:"Vein Size"=6
+        I:"Veins Per Chunk"=1
+    }
+
+    ####################
+    # tool_info
+    ####################
+
+    tool_info {
+        I:damage=3
+        I:durability=1350
+        I:enchantability=20
+        I:pick_level=5
+        I:speed=9
+    }
+
+    ####################
+    # armor_info
+    ####################
+
+    armor_info {
+        I:boots_armor=4
+        I:chestplate_armor=7
+        I:durability_multiplier=35
+        I:helmet_armor=4
+        I:leggings_armor=6
+    }
+
+    ####################
+    # world_gen
+    ####################
+
+    world_gen {
+        S:diminsions=0 2-100000
+        I:dungeon_loot_amount=0
+        I:dungeon_loot_chance=0
+        I:max_height=128
+        I:min_height=0
+        I:vein_chance=100
+        I:vein_density=100
+        I:vein_size=4
+        I:veins_per_chunk=2
+    }
+
+}
+
+
+####################
+# oureclase
+####################
+
+oureclase {
+    ####################
+    # misc
+    ####################
+
+    misc {
+        I:"Block Hardness Level"=2
+        I:"abstractor xp"=3
+        I:abstractor_xp=3
+        I:block_hardness_level=2
+    }
+
+    ####################
+    # """"""""""""""""tool info""""""""""""""""
+    ####################
+
+    """""""""""""""""tool info""""""""""""""""" {
+        I:Damage=2
+        I:Durability=750
+        I:Enchantability=18
+        I:"Pick Level"=3
+        I:Speed=8
+    }
+
+    ####################
+    # """"""""""""""""armor info""""""""""""""""
+    ####################
+
+    """""""""""""""""armor info""""""""""""""""" {
+        I:"Boots Armor"=4
+        I:"Chestplate Armor"=6
+        I:"Durability Multiplier"=22
+        I:"Helmet Armor"=3
+        I:"Leggings Armor"=5
+    }
+
+    ####################
+    # """"""""""""""""world gen""""""""""""""""
+    ####################
+
+    """""""""""""""""world gen""""""""""""""""" {
+        S:Diminsions=0 2-100000
+        I:"Dungeon Loot Amount"=0
+        I:"Dungeon Loot Chance"=0
+        I:"Max Height"=31
+        I:"Min Height"=15
+        I:"Vein Chance"=25
+        I:"Vein Density"=100
+        I:"Vein Size"=10
+        I:"Veins Per Chunk"=1
+    }
+
+    ####################
+    # tool_info
+    ####################
+
+    tool_info {
+        I:damage=2
+        I:durability=750
+        I:enchantability=18
+        I:pick_level=3
+        I:speed=8
+    }
+
+    ####################
+    # armor_info
+    ####################
+
+    armor_info {
+        I:boots_armor=4
+        I:chestplate_armor=6
+        I:durability_multiplier=22
+        I:helmet_armor=3
+        I:leggings_armor=5
+    }
+
+    ####################
+    # world_gen
+    ####################
+
+    world_gen {
+        S:diminsions=0 2-100000
+        I:dungeon_loot_amount=0
+        I:dungeon_loot_chance=0
+        I:max_height=128
+        I:min_height=0
+        I:vein_chance=100
+        I:vein_density=100
+        I:vein_size=3
+        I:veins_per_chunk=4
+    }
+
+}
+
+
+####################
+# prometheum
+####################
+
+prometheum {
+    ####################
+    # misc
+    ####################
+
+    misc {
+        I:"Block Hardness Level"=1
+        I:"abstractor xp"=1
+        I:abstractor_xp=1
+        I:block_hardness_level=1
+    }
+
+    ####################
+    # """"""""""""""""tool info""""""""""""""""
+    ####################
+
+    """""""""""""""""tool info""""""""""""""""" {
+        I:Damage=1
+        I:Durability=200
+        I:Enchantability=16
+        I:"Pick Level"=1
+        I:Speed=4
+    }
+
+    ####################
+    # """"""""""""""""armor info""""""""""""""""
+    ####################
+
+    """""""""""""""""armor info""""""""""""""""" {
+        I:"Boots Armor"=1
+        I:"Chestplate Armor"=3
+        I:"Durability Multiplier"=9
+        I:"Helmet Armor"=2
+        I:"Leggings Armor"=2
+    }
+
+    ####################
+    # """"""""""""""""world gen""""""""""""""""
+    ####################
+
+    """""""""""""""""world gen""""""""""""""""" {
+        S:Diminsions=0 2-100000
+        I:"Dungeon Loot Amount"=0
+        I:"Dungeon Loot Chance"=0
+        I:"Max Height"=73
+        I:"Min Height"=58
+        I:"Vein Chance"=25
+        I:"Vein Density"=100
+        I:"Vein Size"=8
+        I:"Veins Per Chunk"=2
+    }
+
+    ####################
+    # tool_info
+    ####################
+
+    tool_info {
+        I:damage=1
+        I:durability=200
+        I:enchantability=16
+        I:pick_level=1
+        I:speed=4
+    }
+
+    ####################
+    # armor_info
+    ####################
+
+    armor_info {
+        I:boots_armor=1
+        I:chestplate_armor=3
+        I:durability_multiplier=9
+        I:helmet_armor=2
+        I:leggings_armor=2
+    }
+
+    ####################
+    # world_gen
+    ####################
+
+    world_gen {
+        S:diminsions=0 2-100000
+        I:dungeon_loot_amount=0
+        I:dungeon_loot_chance=0
+        I:max_height=128
+        I:min_height=0
+        I:vein_chance=100
+        I:vein_density=100
+        I:vein_size=6
+        I:veins_per_chunk=5
+    }
+
+}
+
+
+####################
+# quicksilver
+####################
+
+quicksilver {
+    ####################
+    # misc
+    ####################
+
+    misc {
+        I:"Block Hardness Level"=3
+        I:"abstractor xp"=9
+        I:abstractor_xp=9
+        I:block_hardness_level=3
+    }
+
+    ####################
+    # """"""""""""""""tool info""""""""""""""""
+    ####################
+
+    """""""""""""""""tool info""""""""""""""""" {
+        I:Damage=3
+        I:Durability=1100
+        I:Enchantability=20
+        I:"Pick Level"=4
+        I:Speed=14
+    }
+
+    ####################
+    # """"""""""""""""armor info""""""""""""""""
+    ####################
+
+    """""""""""""""""armor info""""""""""""""""" {
+        I:"Boots Armor"=4
+        I:"Chestplate Armor"=7
+        I:"Durability Multiplier"=30
+        I:"Helmet Armor"=4
+        I:"Leggings Armor"=5
+    }
+
+    ####################
+    # """"""""""""""""world gen""""""""""""""""
+    ####################
+
+    """""""""""""""""world gen""""""""""""""""" {
+        I:"Dungeon Loot Amount"=0
+        I:"Dungeon Loot Chance"=0
+    }
+
+    ####################
+    # tool_info
+    ####################
+
+    tool_info {
+        I:damage=3
+        I:durability=1100
+        I:enchantability=20
+        I:pick_level=4
+        I:speed=14
+    }
+
+    ####################
+    # armor_info
+    ####################
+
+    armor_info {
+        I:boots_armor=4
+        I:chestplate_armor=7
+        I:durability_multiplier=30
+        I:helmet_armor=4
+        I:leggings_armor=5
+    }
+
+    ####################
+    # world_gen
+    ####################
+
+    world_gen {
+        I:dungeon_loot_amount=0
+        I:dungeon_loot_chance=0
+    }
+
+}
+
+
+####################
+# rubracium
+####################
+
+rubracium {
+    ####################
+    # misc
+    ####################
+
+    misc {
+        I:"Block Hardness Level"=3
+        I:"abstractor xp"=2
+        I:abstractor_xp=2
+        I:block_hardness_level=3
+    }
+
+    ####################
+    # """"""""""""""""world gen""""""""""""""""
+    ####################
+
+    """""""""""""""""world gen""""""""""""""""" {
+        S:Diminsions=0 2-100000
+        I:"Dungeon Loot Amount"=0
+        I:"Dungeon Loot Chance"=0
+        I:"Max Height"=55
+        I:"Min Height"=43
+        I:"Vein Chance"=25
+        I:"Vein Density"=100
+        I:"Vein Size"=6
+        I:"Veins Per Chunk"=1
+    }
+
+    ####################
+    # world_gen
+    ####################
+
+    world_gen {
+        S:diminsions=0 2-100000
+        I:dungeon_loot_amount=0
+        I:dungeon_loot_chance=0
+        I:max_height=128
+        I:min_height=0
+        I:vein_chance=100
+        I:vein_density=100
+        I:vein_size=3
+        I:veins_per_chunk=2
+    }
+
+}
+
+
+####################
+# tartarite
+####################
+
+tartarite {
+    ####################
+    # misc
+    ####################
+
+    misc {
+        I:"Block Hardness Level"=6
+        I:"abstractor xp"=13
+        I:abstractor_xp=13
+        I:block_hardness_level=6
+    }
+
+    ####################
+    # """"""""""""""""tool info""""""""""""""""
+    ####################
+
+    """""""""""""""""tool info""""""""""""""""" {
+        I:Damage=5
+        I:Durability=3000
+        I:Enchantability=25
+        I:"Pick Level"=7
+        I:Speed=14
+    }
+
+    ####################
+    # """"""""""""""""armor info""""""""""""""""
+    ####################
+
+    """""""""""""""""armor info""""""""""""""""" {
+        I:"Boots Armor"=5
+        I:"Chestplate Armor"=7
+        I:"Durability Multiplier"=42
+        I:"Helmet Armor"=5
+        I:"Leggings Armor"=6
+    }
+
+    ####################
+    # """"""""""""""""world gen""""""""""""""""
+    ####################
+
+    """""""""""""""""world gen""""""""""""""""" {
+        I:"Dungeon Loot Amount"=0
+        I:"Dungeon Loot Chance"=0
+    }
+
+    ####################
+    # tool_info
+    ####################
+
+    tool_info {
+        I:damage=5
+        I:durability=3000
+        I:enchantability=25
+        I:pick_level=7
+        I:speed=14
+    }
+
+    ####################
+    # armor_info
+    ####################
+
+    armor_info {
+        I:boots_armor=5
+        I:chestplate_armor=7
+        I:durability_multiplier=42
+        I:helmet_armor=5
+        I:leggings_armor=6
+    }
+
+    ####################
+    # world_gen
+    ####################
+
+    world_gen {
+        I:dungeon_loot_amount=0
+        I:dungeon_loot_chance=0
+    }
+
+}
+
+

@@ -1,0 +1,128 @@
+[
+  {
+    "_HEADER": "*****************************************",
+    "entityName": "Atum.AtumStoneSoldier",
+    "_FOOTER": "*****************************************",
+    "_COMMENT": "Aspects are in the form aspect : value ",
+    "aspects": {}
+  },
+  {
+    "_HEADER": "*****************************************",
+    "entityName": "Atum.AtumMummy",
+    "_FOOTER": "*****************************************",
+    "_COMMENT": "Aspects are in the form aspect : value ",
+    "aspects": {}
+  },
+  {
+    "_HEADER": "*****************************************",
+    "entityName": "Atum.AtumBanditWarrior",
+    "_FOOTER": "*****************************************",
+    "_COMMENT": "Aspects are in the form aspect : value ",
+    "aspects": {}
+  },
+  {
+    "_HEADER": "*****************************************",
+    "entityName": "Atum.AtumBanditArcher",
+    "_FOOTER": "*****************************************",
+    "_COMMENT": "Aspects are in the form aspect : value ",
+    "aspects": {}
+  },
+  {
+    "_HEADER": "*****************************************",
+    "entityName": "Atum.FireSpearCombined",
+    "_FOOTER": "*****************************************",
+    "_COMMENT": "Aspects are in the form aspect : value ",
+    "aspects": {}
+  },
+  {
+    "_HEADER": "*****************************************",
+    "entityName": "Atum.EntityNutsCall",
+    "_FOOTER": "*****************************************",
+    "_COMMENT": "Aspects are in the form aspect : value ",
+    "aspects": {}
+  },
+  {
+    "_HEADER": "*****************************************",
+    "entityName": "Atum.ArrowFire",
+    "_FOOTER": "*****************************************",
+    "_COMMENT": "Aspects are in the form aspect : value ",
+    "aspects": {}
+  },
+  {
+    "_HEADER": "*****************************************",
+    "entityName": "Atum.FireSpearSeperated",
+    "_FOOTER": "*****************************************",
+    "_COMMENT": "Aspects are in the form aspect : value ",
+    "aspects": {}
+  },
+  {
+    "_HEADER": "*****************************************",
+    "entityName": "Atum.AtumBarbarian",
+    "_FOOTER": "*****************************************",
+    "_COMMENT": "Aspects are in the form aspect : value ",
+    "aspects": {}
+  },
+  {
+    "_HEADER": "*****************************************",
+    "entityName": "Atum.ArrowPoison",
+    "_FOOTER": "*****************************************",
+    "_COMMENT": "Aspects are in the form aspect : value ",
+    "aspects": {}
+  },
+  {
+    "_HEADER": "*****************************************",
+    "entityName": "Atum.AtumDesertWolf",
+    "_FOOTER": "*****************************************",
+    "_COMMENT": "Aspects are in the form aspect : value ",
+    "aspects": {}
+  },
+  {
+    "_HEADER": "*****************************************",
+    "entityName": "Atum.ArrowExplosive",
+    "_FOOTER": "*****************************************",
+    "_COMMENT": "Aspects are in the form aspect : value ",
+    "aspects": {}
+  },
+  {
+    "_HEADER": "*****************************************",
+    "entityName": "Atum.EntityAtumFishHook",
+    "_FOOTER": "*****************************************",
+    "_COMMENT": "Aspects are in the form aspect : value ",
+    "aspects": {}
+  },
+  {
+    "_HEADER": "*****************************************",
+    "entityName": "Atum.AtumDesertGhost",
+    "_FOOTER": "*****************************************",
+    "_COMMENT": "Aspects are in the form aspect : value ",
+    "aspects": {}
+  },
+  {
+    "_HEADER": "*****************************************",
+    "entityName": "Atum.AtumDustySkeleton",
+    "_FOOTER": "*****************************************",
+    "_COMMENT": "Aspects are in the form aspect : value ",
+    "aspects": {}
+  },
+  {
+    "_HEADER": "*****************************************",
+    "entityName": "Atum.AtumPharaoh",
+    "_FOOTER": "*****************************************",
+    "_COMMENT": "Aspects are in the form aspect : value ",
+    "aspects": {}
+  },
+  {
+    "_HEADER": "*****************************************",
+    "entityName": "Atum.ArrowVeloctiy",
+    "_FOOTER": "*****************************************",
+    "_COMMENT": "Aspects are in the form aspect : value ",
+    "aspects": {}
+  },
+  {
+    "_HEADER": "*****************************************",
+    "entityName": "Atum.AtumBanditWarlord",
+    "_FOOTER": "*****************************************",
+    "_COMMENT": "Aspects are in the form aspect : value ",
+    "aspects": {}
+  }
+]

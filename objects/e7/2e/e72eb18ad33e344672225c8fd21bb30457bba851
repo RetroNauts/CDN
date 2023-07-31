@@ -1,0 +1,69 @@
+# Configuration file
+
+####################
+# block
+####################
+
+block {
+    I:LPBlockCore=3530
+    I:LPElectricPump=3539
+    I:LPHydraulicLavaPump=3515
+    I:LPHydraulicPipe=3522
+    I:LPHydraulicPressureVat=3516
+    I:LPHydraulicPump=3514
+    I:LPKineticPump=3535
+    I:LPRFPump=3537
+    I:hydraulicCrusher=3519
+    I:hydraulicDynamo=3536
+    I:hydraulicEngine=3534
+    I:hydraulicFrictionIncinerator=3518
+    I:hydraulicGenerator=3538
+    I:hydraulicHarvesterSource=3526
+    I:hydraulicMixer=3517
+    I:hydraulicOil=3533
+    I:hydraulicPiston=3523
+    I:hydraulicPneumaticCompressor=3513
+    I:hydraulicPressureWall=3525
+    I:hydraulicSaw=3542
+    I:hydraulicWasher=3524
+    I:interfaceValve=3541
+    I:oreCopper=3531
+    I:oreLead=3532
+    I:pressureDisposal=3529
+    I:valve=3540
+    I:wheatHarvester=3528
+}
+
+
+####################
+# general
+####################
+
+general {
+    B:canSawTwoMicroblocksAtOnce=true
+    B:explosions=true
+    B:shouldDolleyInHarvesterGoBack=true
+    B:shouldGenOres=true
+}
+
+
+####################
+# item
+####################
+
+item {
+    I:LPHydraulicPipe=3522
+    I:LPPartValve=31677
+    I:bacon=31665
+    I:bucketHydraulicOil=31666
+    I:chunk=31668
+    I:dust=31667
+    I:frictionPlate=31674
+    I:gasket=31676
+    I:ingotCopper=31671
+    I:ingotEnrichedCopper=31669
+    I:ingotLead=31670
+    I:itemDebug=31675
+}
+
+

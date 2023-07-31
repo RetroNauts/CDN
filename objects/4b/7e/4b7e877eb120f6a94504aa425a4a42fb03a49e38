@@ -1,0 +1,75 @@
+{
+	"ore_dictionary": {
+		"shardEntropy": 512.0,
+		"gemAmber": 64.0,
+		"gemApatite": 16.0,
+		"shardAir": 512.0,
+		"shardWater": 512.0,
+		"shardOrder": 512.0,
+		"quicksilver": 512.0,
+		"dustVinteum": 512.0,
+		"gemSapphire": 1024.0,
+		"gemRuby": 1024.0,
+		"shardFire": 512.0,
+		"ingotFzDarkIron": 512.0,
+		"shardEarth": 512.0,
+		"ingotAluminum": 256.0,
+		"crystalCertusQuartz": 256.0,
+		"ingotPlatinum": 2048.0,
+		"gemChimerite": 32.0,
+		"dustPlatinum": 2048.0,
+		"gemPeridot": 1024.0
+	},
+	"unlocazlied_name": [
+		{
+			"name": "item.skull.skeleton",
+			"damage": 0,
+			"value": 1024.0
+		},
+		{
+			"name": "item.skull.wither",
+			"damage": 1,
+			"value": 1024.0
+		},
+		{
+			"name": "item.skull.zombie",
+			"damage": 2,
+			"value": 1024.0
+		},
+		{
+			"name": "item.skull.creeper",
+			"damage": 4,
+			"value": 1024.0
+		},
+		{
+			"name": "item.enchantedBook",
+			"damage": 32767,
+			"value": 2048.0
+		},
+		{
+			"name": "tile.projectred.exploration.stone.stonemarble",
+			"damage": 0,
+			"value": 1.0
+		},
+		{
+			"name": "tile.projectred.exploration.stone.cobblebasalt",
+			"damage": 2,
+			"value": 1.0
+		},
+		{
+			"name": "tile.projectred.exploration.stone.stonebasalt",
+			"damage": 3,
+			"value": 1.0
+		},
+		{
+			"name": "railcraft.cube.stone.abyssal",
+			"damage": 6,
+			"value": 1.0
+		},
+		{
+			"name": "railcraft.cube.brick.abyssal.2",
+			"damage": 2,
+			"value": 1.0
+		}
+	]
+}

@@ -1,0 +1,41 @@
+# Configuration file
+
+####################
+# camoblocks
+####################
+
+camoblocks {
+    I:camoButtonBlock=3893
+    I:camoChestBlock=3887
+    I:camoChestTrappedBlock=3886
+    I:camoDummy=2023
+    I:camoGate=3905
+    I:camoIronDoor=3902
+    I:camoLeverBlock=3900
+    I:camoLightDetectorBlock=3885
+    I:camoPlateAllBlock=3892
+    I:camoPlatePlayerBlock=3891
+    I:camoPlateWeightedBlock_heavy=3889
+    I:camoPlateWeightedBlock_light=3890
+    I:camoRedstoneBlock=3899
+    I:camoStairBlock=3888
+    I:camoTrapDoor=2024
+    I:camoWoodDoor=3904
+    I:ghostBlock=3901
+    I:oneWay=3906
+    I:solidAir=3884
+    I:torchLever=3907
+}
+
+
+####################
+# camoitems
+####################
+
+camoitems {
+    I:camoIronDoor=31689
+    I:camoPasteID=31688
+    I:camoWoodDoor=31690
+}
+
+

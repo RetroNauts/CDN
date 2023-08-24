@@ -1,0 +1,144 @@
+# Configuration file
+
+####################
+# biome
+####################
+
+biome {
+    I:Desert=200
+}
+
+
+####################
+# block
+####################
+
+block {
+    I:"Atum Coal Ore"=1059
+    I:"Atum Diamond Ore"=1063
+    I:"Atum Furnace Burning"=1065
+    I:"Atum Furnace Idle"=1064
+    I:"Atum Gold Ore"=2895
+    I:"Atum Iron Ore"=2894
+    I:"Atum Lapis Ore"=1062
+    I:"Atum Redstone Ore"=3904
+    I:"Carved Limestone"=3917
+    I:"Cracked Large Brick"=1039
+    I:"Cracked Limestone"=3920
+    I:"Cracked Stairs"=3915
+    I:"Crystal Glass"=3912
+    I:CursedChest=3923
+    I:"Date Block"=1044
+    I:"Double Limestone Slabs"=1033
+    I:"Fertile Soil"=1049
+    I:"Fertile Soil Tilled"=1050
+    I:Flax=1048
+    I:"Framed Glass"=3911
+    I:"Large Brick"=3919
+    I:"Large Brick Stairs"=3914
+    I:Limestone=3921
+    I:"Limestone Slabs"=3916
+    I:"Limestone Stairs"=1034
+    I:"Limestone Wall"=1040
+    I:"Palm Leaves"=3910
+    I:"Palm Log"=1051
+    I:"Palm Planks"=3909
+    I:"Palm Sapling"=1043
+    I:Papyrus=1047
+    I:"Pharaoh Chest"=3905
+    I:"Portal Block"=3924
+    I:"Sand Layer"=1038
+    I:Shrub=1045
+    I:"Small Brick"=3918
+    I:"Small Brick Stairs"=3913
+    I:"Strange Sand"=3922
+    I:"Thin Crystal Glass"=3908
+    I:"Thin Framed Glass"=3907
+    I:"Trap Arrows"=3906
+    I:Weed=1046
+}
+
+
+####################
+# dimension
+####################
+
+dimension {
+    I:Atum=17
+}
+
+
+####################
+# item
+####################
+
+item {
+    I:AkerStoil=5010
+    I:"Amunets Home Coming"=5033
+    I:"Anhurs Might"=31694
+    I:"Anubis Mercy"=5034
+    I:"Anukets Bounty"=5030
+    I:"Atens Fury"=5011
+    I:Bow=5005
+    I:Date=5058
+    I:"Desert Boots"=5051
+    I:"Desert Chestplate"=5049
+    I:"Desert Helmet"=5048
+    I:"Desert Leggings"=5050
+    I:Ectoplasm=5053
+    I:Fish=5062
+    I:Flax=5060
+    I:"Flax Seed"=5061
+    I:"Gebs Blessing"=31698
+    I:"Gevs Solidarity"=5028
+    I:"Great Sword"=5002
+    I:"Hedetet Sting"=31690
+    I:"Hedetets Venom"=5027
+    I:"Horus Flight"=5015
+    I:"Horus Soaring"=31689
+    I:"Isis Brace"=31683
+    I:"Isis Healing"=5032
+    I:"Limestone Axe"=5037
+    I:"Limestone Hoe"=5039
+    I:"Limestone Pickaxe"=5036
+    I:"Limestone Shovel"=5035
+    I:"Limestone Sword"=5038
+    I:Linen=5059
+    I:Loot=5006
+    I:"Maats Balance"=31682
+    I:"Mafdets Quickness"=5031
+    I:"Mnevis Horns"=31684
+    I:"Monthus Blast"=31686
+    I:"Monthus Strike"=5016
+    I:"Mummy Boots"=5043
+    I:"Mummy Chestplate"=5041
+    I:"Mummy Helmet"=5040
+    I:"Mummy Leggings"=5042
+    I:"Neiths Audacity"=5063
+    I:"Nus Flux"=31685
+    I:"Nuts Agility"=5014
+    I:"Nuts Call"=5029
+    I:"Osiris Will"=5009
+    I:"Papyris Plant"=5052
+    I:Pelt=5057
+    I:"Ptahs Destruction"=31687
+    I:"Ptahs Pickaxe"=5007
+    I:"Ras Glory"=5012
+    I:Scarab=5000
+    I:Scepter=5003
+    I:Scimitar=5001
+    I:Scrap=5055
+    I:Scroll=5056
+    I:"Sekhmets Wrath"=5013
+    I:"Shus Breath"=31688
+    I:"Sobeks Rage"=5008
+    I:Spear=5064
+    I:"Stone Chunk"=5054
+    I:"Stone Soldier Sword"=5004
+    I:"Wanderer Boots"=5047
+    I:"Wanderer Chestplate"=5045
+    I:"Wanderer Helmet"=5044
+    I:"Wanderer Leggings"=5046
+}
+
+

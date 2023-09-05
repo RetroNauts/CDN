@@ -1,0 +1,193 @@
+# Configuration file
+
+####################
+# general
+####################
+
+general {
+    B:writeLogFile=true
+}
+
+
+####################
+# hidden_items
+#===================
+# Syntax: Label_for_your_convenience.itemid
+####################
+
+hidden_items {
+    S:list <
+        Tcon_battleaxe.14327
+        Tcon_hatchetHead.14284
+        Tcon_scythe.14323
+        Tcon_frypanHead.14291
+        Tcon_frypan.14314
+        Tcon_toolRod.14277
+        Tcon_pickaxe.14307
+        Tcon_cutlass.14328
+        Tcon_swordBlade.14286
+        Tcon_toughBinding.14297
+        Tcon_fullGuard.14303
+        Tcon_toughRod.14298
+        Tcon_mattock.14316
+        Tcon_broadsword.14311
+        Tcon_hammer.14326
+        Tcon_arrow.14329
+        Tcon_largePlate.14300
+        Tcon_shortbow.14319
+        Tcon_excavatorHead.14301
+        Tcon_largeSwordBlade.14299
+        Tcon_handGuard.14288
+        Tcon_shovel.14308
+        Tcon_shovelHead.14283
+        Tcon_bowstring.14304
+        Tcon_arrowhead.14305
+        Tcon_chiselHead.14295
+        Tcon_chisel.14322
+        Tcon_dagger.14321
+        Tcon_cleaver.14324
+        Tcon_pickaxeHead.14282
+        Tcon_scytheBlade.14296
+        Tcon_potionLauncher.14320
+        Tcon_excavator.14325
+        Tcon_crossbar.14289
+        Tcon_knifeBlade.14294
+        ForgeMultiPart_microblock.25131
+        Tcon_longsword.14312
+        Tcon_battlesign.14315
+        Tcon_binding.14290
+        Tcon_fletching.14306
+        Tcon_hammerHead.14302
+        Tcon_wideGuard.14287
+        Tcon_lumberaxe.14317
+        ExtraUtils_Microblock.10273
+        Tcon_signHead.14292
+        Tcon_hatchet.14309
+        Tcon_rapier.14313
+        Tcon_broadAxeHead.14293
+     >
+}
+
+
+####################
+# modules
+####################
+
+modules {
+    B:ExtraTiC=true
+    B:ExtraUtils=true
+    B:ForgeMicropart=true
+    B:Tcon=true
+}
+
+
+####################
+# modules_extratic
+####################
+
+modules_extratic {
+    S:Parts <
+        ARROWHEAD
+        AXE_HEAD
+        BATTLE_SIGN_HEAD
+        BINDING
+        CHISEL_HEAD
+        CHUNK
+        CROSSBAR
+        EXCAVATOR_HEAD
+        FRYPAN_HEAD
+        FULL_GUARD
+        HAMMER_HEAD
+        KNIFE_BLADE
+        LARGE_GUARD
+        LARGE_SWORD_BLADE
+        LARGEPLATE
+        LUMBERAXE_HEAD
+        MEDIUM_GUARD
+        PICKAXE_HEAD
+        SCYTHE_HEAD
+        SHOVEL_HEAD
+        SWORD_BLADE
+        TOOLROD
+        TOUGHBIND
+        TOUGHROD
+     >
+}
+
+
+####################
+# modules_extrautils
+####################
+
+modules_extrautils {
+    S:target=extrautils.multipart.microblock.ItemMicroBlock
+}
+
+
+####################
+# modules_forgemicropart
+####################
+
+modules_forgemicropart {
+    S:target=codechicken.microblock.ItemMicroPart
+}
+
+
+####################
+# modules_tcon
+####################
+
+modules_tcon {
+    S:Parts <
+        potionLauncher
+        binding
+        toughBinding
+        toughRod
+        largePlate
+        pickaxeHead
+        shovelHead
+        hatchetHead
+        frypanHead
+        signHead
+        chiselHead
+        scytheBlade
+        broadAxeHead
+        excavatorHead
+        hammerHead
+        swordBlade
+        largeSwordBlade
+        knifeBlade
+        wideGuard
+        handGuard
+        crossbar
+        fullGuard
+        bowstring
+        arrowhead
+        fletching
+        toolRod
+     >
+    S:Tools <
+        pickaxe
+        shovel
+        hatchet
+        broadsword
+        longsword
+        rapier
+        dagger
+        cutlass
+        frypan
+        battlesign
+        chisel
+        mattock
+        scythe
+        lumberaxe
+        cleaver
+        excavator
+        hammer
+        battleaxe
+        shortbow
+        arrow
+     >
+}
+
+

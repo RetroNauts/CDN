@@ -1,0 +1,12 @@
+# Configuration file
+
+####################
+# item
+####################
+
+item {
+    # The starting ID for the armor, automatically incremented for all 4 items.
+    I:armorID=23483
+}
+
+

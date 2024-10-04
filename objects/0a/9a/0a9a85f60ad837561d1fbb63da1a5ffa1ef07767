@@ -1,0 +1,618 @@
+# Configuration file
+
+####################
+# """""!enable"""""
+####################
+
+""""""!enable"""""" {
+    B:"Enable Precious Set"=true
+    ####################
+    # """""enable metals"""""
+    ####################
+
+    """"""enable metals"""""" {
+        B:"Enable Brass"=true
+        B:"Enable Electrum"=true
+        B:"Enable Platinum"=true
+        B:"Enable Silver"=true
+        B:"Enable Zinc"=true
+    }
+
+}
+
+
+####################
+# 1_enable
+####################
+
+1_enable {
+    B:enable_precious_set=true
+    ####################
+    # enable_metals
+    ####################
+
+    enable_metals {
+        B:brass=true
+        B:electrum=true
+        B:platinum=true
+        B:silver=true
+        B:zinc=true
+    }
+
+    ####################
+    # tool_recipes
+    ####################
+
+    tool_recipes {
+        B:brass=true
+        B:electrum=true
+        B:platinum=true
+        B:silver=true
+    }
+
+    ####################
+    # armor_recipes
+    ####################
+
+    armor_recipes {
+        B:brass=true
+        B:electrum=true
+        B:platinum=true
+        B:silver=true
+    }
+
+    ####################
+    # enable_world_gen
+    ####################
+
+    enable_world_gen {
+        B:platinum=true
+        B:silver=true
+        B:zinc=true
+    }
+
+}
+
+
+####################
+# block
+####################
+
+block {
+    I:Block=912
+    I:Brick=913
+    I:Ore=914
+    I:block=905
+    I:brick=906
+    I:ore=904
+}
+
+
+####################
+# brass
+####################
+
+brass {
+    ####################
+    # misc
+    ####################
+
+    misc {
+        I:"Block Hardness Level"=0
+        I:"abstractor xp"=18
+        I:abstractor_xp=18
+        I:block_hardness_level=0
+    }
+
+    ####################
+    # """""tool info"""""
+    ####################
+
+    """"""tool info"""""" {
+        I:Damage=1
+        I:Durability=15
+        I:Enchantability=18
+        I:"Pick Level"=0
+        I:Speed=12
+    }
+
+    ####################
+    # """""armor info"""""
+    ####################
+
+    """"""armor info"""""" {
+        I:"Boots Armor"=1
+        I:"Chestplate Armor"=3
+        I:"Durability Multiplier"=3
+        I:"Helmet Armor"=2
+        I:"Leggings Armor"=2
+    }
+
+    ####################
+    # """""world gen"""""
+    ####################
+
+    """"""world gen"""""" {
+        I:"Dungeon Loot Amount"=3
+        I:"Dungeon Loot Chance"=25
+    }
+
+    ####################
+    # tool_info
+    ####################
+
+    tool_info {
+        I:damage=1
+        I:durability=15
+        I:enchantability=18
+        I:pick_level=0
+        I:speed=12
+    }
+
+    ####################
+    # armor_info
+    ####################
+
+    armor_info {
+        I:boots_armor=1
+        I:chestplate_armor=3
+        I:durability_multiplier=3
+        I:helmet_armor=2
+        I:leggings_armor=2
+    }
+
+    ####################
+    # world_gen
+    ####################
+
+    world_gen {
+        I:dungeon_loot_amount=3
+        I:dungeon_loot_chance=25
+    }
+
+}
+
+
+####################
+# electrum
+####################
+
+electrum {
+    ####################
+    # misc
+    ####################
+
+    misc {
+        I:"Block Hardness Level"=1
+        I:"abstractor xp"=30
+        I:abstractor_xp=30
+        I:block_hardness_level=1
+    }
+
+    ####################
+    # """""tool info"""""
+    ####################
+
+    """"""tool info"""""" {
+        I:Damage=1
+        I:Durability=100
+        I:Enchantability=30
+        I:"Pick Level"=1
+        I:Speed=20
+    }
+
+    ####################
+    # """""armor info"""""
+    ####################
+
+    """"""armor info"""""" {
+        I:"Boots Armor"=3
+        I:"Chestplate Armor"=6
+        I:"Durability Multiplier"=9
+        I:"Helmet Armor"=2
+        I:"Leggings Armor"=5
+    }
+
+    ####################
+    # """""world gen"""""
+    ####################
+
+    """"""world gen"""""" {
+        I:"Dungeon Loot Amount"=2
+        I:"Dungeon Loot Chance"=10
+    }
+
+    ####################
+    # tool_info
+    ####################
+
+    tool_info {
+        I:damage=1
+        I:durability=100
+        I:enchantability=30
+        I:pick_level=1
+        I:speed=20
+    }
+
+    ####################
+    # armor_info
+    ####################
+
+    armor_info {
+        I:boots_armor=3
+        I:chestplate_armor=6
+        I:durability_multiplier=9
+        I:helmet_armor=2
+        I:leggings_armor=5
+    }
+
+    ####################
+    # world_gen
+    ####################
+
+    world_gen {
+        I:dungeon_loot_amount=2
+        I:dungeon_loot_chance=10
+    }
+
+}
+
+
+####################
+# item
+####################
+
+item {
+    I:"Brass Axe"=26439
+    I:"Brass Boots"=26440
+    I:"Brass Chest"=26441
+    I:"Brass Dust"=26442
+    I:"Brass Helmet"=26443
+    I:"Brass Hoe"=26444
+    I:"Brass Ingot"=26445
+    I:"Brass Legs"=26446
+    I:"Brass Pickaxe"=26447
+    I:"Brass Shovel"=26448
+    I:"Brass Sword"=26449
+    I:"Electrum Axe"=26450
+    I:"Electrum Boots"=26451
+    I:"Electrum Chest"=26452
+    I:"Electrum Dust"=26453
+    I:"Electrum Helmet"=26454
+    I:"Electrum Hoe"=26455
+    I:"Electrum Ingot"=26456
+    I:"Electrum Legs"=26457
+    I:"Electrum Pickaxe"=26458
+    I:"Electrum Shovel"=26459
+    I:"Electrum Sword"=26460
+    I:"Platinum Axe"=26461
+    I:"Platinum Boots"=26462
+    I:"Platinum Chest"=26463
+    I:"Platinum Dust"=26464
+    I:"Platinum Helmet"=26465
+    I:"Platinum Hoe"=26466
+    I:"Platinum Ingot"=26467
+    I:"Platinum Legs"=26468
+    I:"Platinum Pickaxe"=26469
+    I:"Platinum Shovel"=26470
+    I:"Platinum Sword"=26471
+    I:"Silver Axe"=26472
+    I:"Silver Boots"=26473
+    I:"Silver Chest"=26474
+    I:"Silver Dust"=26475
+    I:"Silver Helmet"=26476
+    I:"Silver Hoe"=26477
+    I:"Silver Ingot"=26478
+    I:"Silver Legs"=26479
+    I:"Silver Pickaxe"=26480
+    I:"Silver Shovel"=26481
+    I:"Silver Sword"=26482
+    I:"Zinc Axe"=26483
+    I:"Zinc Boots"=26484
+    I:"Zinc Chest"=26485
+    I:"Zinc Dust"=26486
+    I:"Zinc Helmet"=26487
+    I:"Zinc Hoe"=26488
+    I:"Zinc Ingot"=26489
+    I:"Zinc Legs"=26490
+    I:"Zinc Pickaxe"=26491
+    I:"Zinc Shovel"=26492
+    I:"Zinc Sword"=26493
+    I:brass_axe=26804
+    I:brass_boots=26810
+    I:brass_chest=26808
+    I:brass_dust=26800
+    I:brass_helmet=26807
+    I:brass_hoe=26805
+    I:brass_ingot=26801
+    I:brass_legs=26809
+    I:brass_pickaxe=26802
+    I:brass_shovel=26803
+    I:brass_sword=26806
+    I:electrum_axe=26854
+    I:electrum_boots=26860
+    I:electrum_chest=26858
+    I:electrum_dust=26850
+    I:electrum_helmet=26857
+    I:electrum_hoe=26855
+    I:electrum_ingot=26851
+    I:electrum_legs=26859
+    I:electrum_pickaxe=26852
+    I:electrum_shovel=26853
+    I:electrum_sword=26856
+    I:platinum_axe=26754
+    I:platinum_boots=26760
+    I:platinum_chest=26758
+    I:platinum_dust=31664
+    I:platinum_helmet=26757
+    I:platinum_hoe=26755
+    I:platinum_ingot=31609
+    I:platinum_legs=26759
+    I:platinum_pickaxe=31607
+    I:platinum_shovel=31608
+    I:platinum_sword=26756
+    I:silver_axe=26704
+    I:silver_boots=26710
+    I:silver_chest=26708
+    I:silver_dust=26700
+    I:silver_helmet=26707
+    I:silver_hoe=26705
+    I:silver_ingot=26701
+    I:silver_legs=26709
+    I:silver_pickaxe=26702
+    I:silver_shovel=26703
+    I:silver_sword=26706
+    I:zinc_dust=26650
+    I:zinc_ingot=26651
+}
+
+
+####################
+# platinum
+####################
+
+platinum {
+    ####################
+    # misc
+    ####################
+
+    misc {
+        I:"Block Hardness Level"=2
+        I:"abstractor xp"=50
+        I:abstractor_xp=50
+        I:block_hardness_level=2
+    }
+
+    ####################
+    # """""tool info"""""
+    ####################
+
+    """"""tool info"""""" {
+        I:Damage=1
+        I:Durability=100
+        I:Enchantability=50
+        I:"Pick Level"=2
+        I:Speed=24
+    }
+
+    ####################
+    # """""armor info"""""
+    ####################
+
+    """"""armor info"""""" {
+        I:"Boots Armor"=3
+        I:"Chestplate Armor"=6
+        I:"Durability Multiplier"=11
+        I:"Helmet Armor"=3
+        I:"Leggings Armor"=5
+    }
+
+    ####################
+    # """""world gen"""""
+    ####################
+
+    """"""world gen"""""" {
+        S:Diminsions=0 2-100000
+        I:"Dungeon Loot Amount"=1
+        I:"Dungeon Loot Chance"=4
+        I:"Max Height"=28
+        I:"Min Height"=18
+        I:"Vein Chance"=15
+        I:"Vein Density"=100
+        I:"Vein Size"=3
+        I:"Veins Per Chunk"=3
+    }
+
+    ####################
+    # tool_info
+    ####################
+
+    tool_info {
+        I:damage=1
+        I:durability=100
+        I:enchantability=50
+        I:pick_level=2
+        I:speed=24
+    }
+
+    ####################
+    # armor_info
+    ####################
+
+    armor_info {
+        I:boots_armor=3
+        I:chestplate_armor=6
+        I:durability_multiplier=11
+        I:helmet_armor=3
+        I:leggings_armor=5
+    }
+
+    ####################
+    # world_gen
+    ####################
+
+    world_gen {
+        S:diminsions=0 2-100000
+        I:dungeon_loot_amount=1
+        I:dungeon_loot_chance=4
+        I:max_height=128
+        I:min_height=0
+        I:vein_chance=100
+        I:vein_density=100
+        I:vein_size=3
+        I:veins_per_chunk=3
+    }
+
+}
+
+
+####################
+# silver
+####################
+
+silver {
+    ####################
+    # misc
+    ####################
+
+    misc {
+        I:"Block Hardness Level"=1
+        I:"abstractor xp"=20
+        I:abstractor_xp=20
+        I:block_hardness_level=1
+    }
+
+    ####################
+    # """""tool info"""""
+    ####################
+
+    """"""tool info"""""" {
+        I:Damage=1
+        I:Durability=25
+        I:Enchantability=20
+        I:"Pick Level"=1
+        I:Speed=16
+    }
+
+    ####################
+    # """""armor info"""""
+    ####################
+
+    """"""armor info"""""" {
+        I:"Boots Armor"=2
+        I:"Chestplate Armor"=4
+        I:"Durability Multiplier"=5
+        I:"Helmet Armor"=2
+        I:"Leggings Armor"=3
+    }
+
+    ####################
+    # """""world gen"""""
+    ####################
+
+    """"""world gen"""""" {
+        S:Diminsions=0 2-100000
+        I:"Dungeon Loot Amount"=3
+        I:"Dungeon Loot Chance"=18
+        I:"Max Height"=66
+        I:"Min Height"=43
+        I:"Vein Chance"=0
+        I:"Vein Density"=100
+        I:"Vein Size"=5
+        I:"Veins Per Chunk"=5
+    }
+
+    ####################
+    # tool_info
+    ####################
+
+    tool_info {
+        I:damage=1
+        I:durability=25
+        I:enchantability=20
+        I:pick_level=1
+        I:speed=16
+    }
+
+    ####################
+    # armor_info
+    ####################
+
+    armor_info {
+        I:boots_armor=2
+        I:chestplate_armor=4
+        I:durability_multiplier=5
+        I:helmet_armor=2
+        I:leggings_armor=3
+    }
+
+    ####################
+    # world_gen
+    ####################
+
+    world_gen {
+        S:diminsions=0 2-100000
+        I:dungeon_loot_amount=3
+        I:dungeon_loot_chance=18
+        I:max_height=128
+        I:min_height=0
+        I:vein_chance=100
+        I:vein_density=100
+        I:vein_size=5
+        I:veins_per_chunk=5
+    }
+
+}
+
+
+####################
+# zinc
+####################
+
+zinc {
+    ####################
+    # misc
+    ####################
+
+    misc {
+        I:"Block Hardness Level"=0
+        I:"abstractor xp"=3
+        I:abstractor_xp=3
+        I:block_hardness_level=0
+    }
+
+    ####################
+    # """""world gen"""""
+    ####################
+
+    """"""world gen"""""" {
+        S:Diminsions=0 2-100000
+        I:"Dungeon Loot Amount"=4
+        I:"Dungeon Loot Chance"=40
+        I:"Max Height"=66
+        I:"Min Height"=43
+        I:"Vein Chance"=100
+        I:"Vein Density"=100
+        I:"Vein Size"=5
+        I:"Veins Per Chunk"=6
+    }
+
+    ####################
+    # world_gen
+    ####################
+
+    world_gen {
+        S:diminsions=0 2-100000
+        I:dungeon_loot_amount=4
+        I:dungeon_loot_chance=40
+        I:max_height=128
+        I:min_height=0
+        I:vein_chance=100
+        I:vein_density=100
+        I:vein_size=5
+        I:veins_per_chunk=6
+    }
+
+}
+
+

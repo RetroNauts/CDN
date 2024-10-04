@@ -2,9 +2,10 @@
   "minimumVersion" : 1,
   "packages" : [
     {
-      "title" : "RetroNauts Presents Brightlight",
+      "title" : "RetroNautsMC Presents Brightlight",
       "name" : "Brightlight",
-      "version" : "1.6.0.2",
+      "version" : "1.6.0.3",
+      "javaRuntime" : "jre-legacy",
       "location" : "brightlight.json",
       "priority" : 0
     }

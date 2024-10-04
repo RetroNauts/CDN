@@ -1,0 +1,391 @@
+# Configuration file
+
+####################
+# !enable
+####################
+
+"!enable" {
+    B:"Enable Texture Overrides"=false
+    B:"Enable Vanilla Set"=false
+    ####################
+    # enable metals
+    ####################
+
+    "enable metals" {
+        B:"Enable Coal"=true
+        B:"Enable Diamond"=true
+        B:"Enable Emerald"=true
+        B:"Enable Gold"=true
+        B:"Enable Iron"=true
+        B:"Enable Lapis Lazuli"=true
+        B:"Enable Quartz"=true
+        B:"Enable Redstone"=true
+    }
+
+}
+
+
+####################
+# 1_enable
+####################
+
+1_enable {
+    B:enable_texture_overrides=true
+    B:enable_vanilla_set=true
+    ####################
+    # item_recipes
+    ####################
+
+    item_recipes {
+        B:more_iron_dust_crafting=true
+    }
+
+    ####################
+    # enable_metals
+    ####################
+
+    enable_metals {
+        B:coal=true
+        B:diamond=true
+        B:emerald=true
+        B:gold=true
+        B:iron=true
+        B:lapis_lazuli=true
+        B:quartz=true
+        B:redstone=true
+    }
+
+    ####################
+    # enable_world_gen
+    ####################
+
+    enable_world_gen {
+        B:coal=true
+        B:diamond=true
+        B:emerald=true
+        B:gold=true
+        B:iron=true
+        B:lapis_lazuli=true
+        B:quartz=true
+        B:redstone=true
+    }
+
+}
+
+
+####################
+# block
+####################
+
+block {
+    I:Brick=918
+    I:brick=900
+}
+
+
+####################
+# coal
+####################
+
+coal {
+    ####################
+    # world gen
+    ####################
+
+    "world gen" {
+        S:Diminsions=0 2-100000
+        I:"Max Height"=128
+        I:"Min Height"=0
+        I:"Vein Chance"=100
+        I:"Vein Density"=100
+        I:"Vein Size"=16
+        I:"Veins Per Chunk"=20
+    }
+
+    ####################
+    # world_gen
+    ####################
+
+    world_gen {
+        S:diminsions=0 2-100000
+        I:max_height=128
+        I:min_height=0
+        I:vein_chance=100
+        I:vein_density=100
+        I:vein_size=16
+        I:veins_per_chunk=20
+    }
+
+}
+
+
+####################
+# diamond
+####################
+
+diamond {
+    ####################
+    # world gen
+    ####################
+
+    "world gen" {
+        S:Diminsions=0 2-100000
+        I:"Max Height"=16
+        I:"Min Height"=0
+        I:"Vein Chance"=100
+        I:"Vein Density"=100
+        I:"Vein Size"=7
+        I:"Veins Per Chunk"=1
+    }
+
+    ####################
+    # world_gen
+    ####################
+
+    world_gen {
+        S:diminsions=0 2-100000
+        I:max_height=16
+        I:min_height=0
+        I:vein_chance=100
+        I:vein_density=100
+        I:vein_size=7
+        I:veins_per_chunk=1
+    }
+
+}
+
+
+####################
+# emerald
+####################
+
+emerald {
+    ####################
+    # world gen
+    ####################
+
+    "world gen" {
+        S:Diminsions=0 2-100000
+        I:"Max Height"=32
+        I:"Min Height"=4
+        I:"Vein Chance"=100
+        I:"Vein Density"=30
+        I:"Vein Size"=3
+        I:"Veins Per Chunk"=9
+    }
+
+    ####################
+    # world_gen
+    ####################
+
+    world_gen {
+        S:diminsions=0 2-100000
+        I:max_height=32
+        I:min_height=4
+        I:vein_chance=100
+        I:vein_density=30
+        I:vein_size=3
+        I:veins_per_chunk=9
+    }
+
+}
+
+
+####################
+# gold
+####################
+
+gold {
+    ####################
+    # world gen
+    ####################
+
+    "world gen" {
+        S:Diminsions=0 2-100000
+        I:"Max Height"=32
+        I:"Min Height"=0
+        I:"Vein Chance"=100
+        I:"Vein Density"=100
+        I:"Vein Size"=8
+        I:"Veins Per Chunk"=2
+    }
+
+    ####################
+    # world_gen
+    ####################
+
+    world_gen {
+        S:diminsions=0 2-100000
+        I:max_height=32
+        I:min_height=0
+        I:vein_chance=100
+        I:vein_density=100
+        I:vein_size=8
+        I:veins_per_chunk=2
+    }
+
+}
+
+
+####################
+# iron
+####################
+
+iron {
+    ####################
+    # world gen
+    ####################
+
+    "world gen" {
+        S:Diminsions=0 2-100000
+        I:"Max Height"=64
+        I:"Min Height"=0
+        I:"Vein Chance"=100
+        I:"Vein Density"=100
+        I:"Vein Size"=8
+        I:"Veins Per Chunk"=20
+    }
+
+    ####################
+    # world_gen
+    ####################
+
+    world_gen {
+        S:diminsions=0 2-100000
+        I:max_height=64
+        I:min_height=0
+        I:vein_chance=100
+        I:vein_density=100
+        I:vein_size=8
+        I:veins_per_chunk=20
+    }
+
+}
+
+
+####################
+# item
+####################
+
+item {
+    I:gold_dust=5101
+    I:iron_dust=5100
+}
+
+
+####################
+# lapis lazuli
+####################
+
+"lapis lazuli" {
+    ####################
+    # world gen
+    ####################
+
+    "world gen" {
+        S:Diminsions=0 2-100000
+        I:"Max Height"=16
+        I:"Min Height"=0
+        I:"Vein Chance"=100
+        I:"Vein Density"=100
+        I:"Vein Size"=6
+        I:"Veins Per Chunk"=1
+    }
+
+}
+
+
+####################
+# lapis_lazuli
+####################
+
+lapis_lazuli {
+    ####################
+    # world_gen
+    ####################
+
+    world_gen {
+        S:diminsions=0 2-100000
+        I:max_height=16
+        I:min_height=0
+        I:vein_chance=100
+        I:vein_density=100
+        I:vein_size=6
+        I:veins_per_chunk=1
+    }
+
+}
+
+
+####################
+# quartz
+####################
+
+quartz {
+    ####################
+    # world gen
+    ####################
+
+    "world gen" {
+        S:Diminsions=-1
+        I:"Max Height"=118
+        I:"Min Height"=10
+        I:"Vein Chance"=100
+        I:"Vein Density"=100
+        I:"Vein Size"=13
+        I:"Veins Per Chunk"=16
+    }
+
+    ####################
+    # world_gen
+    ####################
+
+    world_gen {
+        S:diminsions=-1
+        I:max_height=118
+        I:min_height=10
+        I:vein_chance=100
+        I:vein_density=100
+        I:vein_size=13
+        I:veins_per_chunk=16
+    }
+
+}
+
+
+####################
+# redstone
+####################
+
+redstone {
+    ####################
+    # world gen
+    ####################
+
+    "world gen" {
+        S:Diminsions=0 2-100000
+        I:"Max Height"=16
+        I:"Min Height"=0
+        I:"Vein Chance"=100
+        I:"Vein Density"=100
+        I:"Vein Size"=7
+        I:"Veins Per Chunk"=8
+    }
+
+    ####################
+    # world_gen
+    ####################
+
+    world_gen {
+        S:diminsions=0 2-100000
+        I:max_height=16
+        I:min_height=0
+        I:vein_chance=100
+        I:vein_density=100
+        I:vein_size=7
+        I:veins_per_chunk=8
+    }
+
+}
+
+

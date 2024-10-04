@@ -1,0 +1,101 @@
+# Configuration file
+
+####################
+# block
+####################
+
+block {
+    I:biomeCore=3560
+    I:brewingStand=3561
+    I:corruptedEnergy1=1630
+    I:corruptedEnergy2=1631
+    I:crossedDecoration=3562
+    I:decompositionTable=1613
+    I:dungeonPuzzle=3563
+    I:endFlower=3564
+    I:endFlowerPot=3565
+    I:endPowder=3566
+    I:endTerrain=3567
+    I:enderGoo=3568
+    I:endermanHead=3569
+    I:endermanSpawner=3570
+    I:energyCluster=1629
+    I:energyExtractionTable=1628
+    I:enhancedTNT=1633
+    I:essenceAltar=3571
+    I:igneousRock=3572
+    I:infestationCauldron=3573
+    I:instabilityOrbOre=3574
+    I:laserBeam=3575
+    I:obsidainStairs=3576
+    I:obsidianEnd=3577
+    I:obsidianSpecial=3761
+    I:obsidianSpecialGlow=3579
+    I:ravagedBrick=1623
+    I:soulCharm=3580
+    I:sphalerite=1632
+    I:spookyLeaves=3581
+    I:spookyLog=3582
+    I:stardustOre=3583
+    I:stardustPlaced=3584
+    I:templeEndPortal=3585
+}
+
+
+####################
+# general
+####################
+
+general {
+    I:achievementStartId=3500
+    B:enableEndermapocalypse=true
+    B:enableMusic=true
+    B:enableTempleCaller=true
+    B:enableUpdateNotifications=true
+    B:gooBattlesWater=true
+    B:overpoweredMobs=false
+}
+
+
+####################
+# item
+####################
+
+item {
+    I:achievementLorePages=26744
+    I:altarNexus=26745
+    I:biomeCompass=31620
+    I:brewingStand=31626
+    I:bucketEnderGoo=31612
+    I:corporealMirageOrb=31616
+    I:dragonEssence=31627
+    I:drySplinter=31619
+    I:endPowder=31624
+    I:enderCompendium=31611
+    I:enderGem=31621
+    I:enderPearl=31625
+    I:endermanHead=31613
+    I:endermanRelicRepaired=31614
+    I:endermanRelicShattered=26756
+    I:endoplasm=31617
+    I:gemFragment=26758
+    I:ghostTalisman=31618
+    I:igneousRock=31623
+    I:infestationRemedy=26761
+    I:infestedBatWing=26762
+    I:instabilityOrb=26763
+    I:knowledgeFragment=31610
+    I:lorePage=26764
+    I:minionContainer=31615
+    I:musicDisk=26765
+    I:number=26766
+    I:potionOfInstability=26767
+    I:silverfishBlood=26768
+    I:spatialDashGem=31622
+    I:spawnEggs=26769
+    I:spectralWand=26770
+    I:stardust=26771
+    I:templeCaller=26772
+}
+
+

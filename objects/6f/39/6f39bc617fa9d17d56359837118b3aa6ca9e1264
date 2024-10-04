@@ -1,0 +1,138 @@
+# Configuration file
+
+####################
+# block
+####################
+
+block {
+    I:brewery=3578
+}
+
+
+####################
+# compatibility
+####################
+
+compatibility {
+    # Toggle Biomes o' Plenty Integration
+    B:"Biomes o' Plenty Integration"=true
+
+    # Toggle Buildcraft Integration
+    B:"Buildcraft Integration"=true
+
+    # Toggle Forestry Integration
+    B:"Forestry Integration"=true
+
+    # Toggle Aspects from Thaumcraft 4
+    B:"Thaumcraft 4 Aspects on Items and Blocks"=true
+
+    # Toggle Thaumcraft Ingtegration
+    B:"Thaumcraft Integration"=true
+}
+
+
+####################
+# """dungeon loot"""
+####################
+
+""""dungeon loot"""" {
+    # Toggle Golden Feather as Dungeon Loot
+    B:"Golden Feather Dungeon Loot"=true
+}
+
+
+####################
+# general
+####################
+
+general {
+    B:debugMode=false
+}
+
+
+####################
+# global
+####################
+
+global {
+    # Toggle Blessed Powder Villager Trades
+    B:"Blessed Powder Villager Trades"=true
+
+    # Toggle Golden Feather Villager Trades
+    B:"Golden Feather Villager Trades"=true
+
+    # Toggle Mod Compatibility
+    B:"Mod Compatibility"=true
+}
+
+
+####################
+# item
+####################
+
+item {
+    I:ingredients=11972
+    I:potions=11973
+}
+
+
+####################
+# """potion effect ids"""
+####################
+
+""""potion effect ids"""" {
+    # Must be over 20. Must also be lowered if you have disabled the potion list expansion.
+    I:"'Angelic' Effect ID"=40
+
+    # Must be over 20. Must also be lowered if you have disabled the potion list expansion.
+    I:"'Combustion' Effect ID"=42
+
+    # Must be over 20. Must also be lowered if you have disabled the potion list expansion.
+    I:"'Flight' Effect ID"=41
+
+    # Must be over 20. Must also be lowered if you have disabled the potion list expansion.
+    I:"'Immunity' Effect ID"=43
+}
+
+
+####################
+# """potion list expansion"""
+####################
+
+""""potion list expansion"""" {
+    # Will only do something if expanding the potion list is set to true.
+    I:"Potion List Extension Size"=64
+
+    # Disable it you are running another mod that expands the list.
+    B:"Toggle Potion List Expansion"=true
+}
+
+
+####################
+# recipes
+####################
+
+recipes {
+    # Toggle crafting the Brewery with Brass if available
+    B:"Brass Brewery"=true
+
+    # Toggle Charred Bone Smelting Recipe
+    B:"Charred Bone Recipe"=true
+
+    # Toggle Golden Feather Recipe
+    B:"Golden Feather Recipe"=true
+
+    # Toggle crafting the Brewery with Iron. (Can only be disabled if Lead or Brass is available)
+    B:"Iron Brewery"=true
+
+    # Toggle crafting the Brewery with Lead if available
+    B:"Lead Brewery"=true
+
+    # Toggle Splash Bottle Recipe
+    B:"Splash Bottle Recipe"=true
+
+    # Toggle Vanilla Potion Brewing Recipes
+    B:"Vanilla Potions are Brewable"=true
+}
+
+

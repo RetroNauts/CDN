@@ -1,0 +1,409 @@
+# Configuration file
+
+####################
+# "!enable"
+####################
+
+""!enable"" {
+    B:"Enable Utility Set"=true
+    ####################
+    # "enable metals"
+    ####################
+
+    ""enable metals"" {
+        B:"Enable Bitumen"=true
+        B:"Enable Magnesium"=true
+        B:"Enable Phosphorite"=true
+        B:"Enable Potash"=true
+        B:"Enable Saltpeter"=true
+        B:"Enable Sulfur"=true
+    }
+
+    ####################
+    # enable metals
+    ####################
+
+    "enable metals" {
+        B:"Enable Bitumen"=true
+        B:"Enable Magnesium"=true
+        B:"Enable Phosphorite"=true
+        B:"Enable Potash"=true
+        B:"Enable Saltpeter"=true
+        B:"Enable Sulfur"=true
+    }
+
+}
+
+
+####################
+# 1_enable
+####################
+
+1_enable {
+    B:enable_utility_set=true
+    ####################
+    # enable_metals
+    ####################
+
+    enable_metals {
+        B:bitumen=true
+        B:magnesium=true
+        B:phosphorite=true
+        B:potash=true
+        B:saltpeter=true
+        B:sulfur=true
+    }
+
+    ####################
+    # enable_world_gen
+    ####################
+
+    enable_world_gen {
+        B:bitumen=true
+        B:magnesium=true
+        B:phosphorite=true
+        B:potash=true
+        B:saltpeter=true
+        B:sulfur=true
+    }
+
+}
+
+
+####################
+# bitumen
+####################
+
+bitumen {
+    ####################
+    # misc
+    ####################
+
+    misc {
+        I:"Block Hardness Level"=1
+        I:block_hardness_level=1
+    }
+
+    ####################
+    # "world gen"
+    ####################
+
+    ""world gen"" {
+        S:Diminsions=0 2-100000
+        I:"Max Height"=128
+        I:"Min Height"=0
+        I:"Vein Chance"=100
+        I:"Vein Density"=100
+        I:"Vein Size"=4
+        I:"Veins Per Chunk"=4
+    }
+
+    ####################
+    # world_gen
+    ####################
+
+    world_gen {
+        S:diminsions=0 2-100000
+        I:max_height=128
+        I:min_height=0
+        I:vein_chance=100
+        I:vein_density=100
+        I:vein_size=4
+        I:veins_per_chunk=4
+    }
+
+}
+
+
+####################
+# block
+####################
+
+block {
+    I:Ore=915
+    I:he_tnt=930
+    I:le_tnt=931
+    I:ore=910
+}
+
+
+####################
+# item
+####################
+
+item {
+    I:Bitumen=29015
+    I:Magnesium=29014
+    I:Phosphorus=29011
+    I:Potash=29016
+    I:Saltpeter=29013
+    I:Sulfur=29012
+    I:fertilizer=29009
+    I:magnesium_igniter=29007
+    I:match=29008
+    I:tar=29010
+}
+
+
+####################
+# "item ids"
+####################
+
+""item ids"" {
+    I:Bitumen=26494
+    I:Fertilizer=26495
+    I:"HE TNT"=916
+    I:"LE TNT"=917
+    I:Magnesium=26496
+    I:"Magnesium Igniter"=26497
+    I:Match=26498
+    I:Phosphorus=26499
+    I:Potash=26500
+    I:Saltpeter=26501
+    I:Sulfur=26502
+    I:Tar=26503
+}
+
+
+####################
+# magnesium
+####################
+
+magnesium {
+    ####################
+    # misc
+    ####################
+
+    misc {
+        I:"Block Hardness Level"=1
+        I:block_hardness_level=1
+    }
+
+    ####################
+    # "world gen"
+    ####################
+
+    ""world gen"" {
+        S:Diminsions=0 2-100000
+        I:"Max Height"=128
+        I:"Min Height"=0
+        I:"Vein Chance"=100
+        I:"Vein Density"=100
+        I:"Vein Size"=4
+        I:"Veins Per Chunk"=4
+    }
+
+    ####################
+    # world_gen
+    ####################
+
+    world_gen {
+        S:diminsions=0 2-100000
+        I:max_height=128
+        I:min_height=0
+        I:vein_chance=100
+        I:vein_density=100
+        I:vein_size=4
+        I:veins_per_chunk=4
+    }
+
+}
+
+
+####################
+# phosphorite
+####################
+
+phosphorite {
+    ####################
+    # misc
+    ####################
+
+    misc {
+        I:"Block Hardness Level"=1
+        I:block_hardness_level=1
+    }
+
+    ####################
+    # "world gen"
+    ####################
+
+    ""world gen"" {
+        S:Diminsions=0 2-100000
+        I:"Max Height"=128
+        I:"Min Height"=0
+        I:"Vein Chance"=100
+        I:"Vein Density"=100
+        I:"Vein Size"=4
+        I:"Veins Per Chunk"=4
+    }
+
+    ####################
+    # world_gen
+    ####################
+
+    world_gen {
+        S:diminsions=0 2-100000
+        I:max_height=128
+        I:min_height=0
+        I:vein_chance=100
+        I:vein_density=100
+        I:vein_size=4
+        I:veins_per_chunk=4
+    }
+
+}
+
+
+####################
+# potash
+####################
+
+potash {
+    ####################
+    # misc
+    ####################
+
+    misc {
+        I:"Block Hardness Level"=1
+        I:block_hardness_level=1
+    }
+
+    ####################
+    # "world gen"
+    ####################
+
+    ""world gen"" {
+        S:Diminsions=0 2-100000
+        I:"Max Height"=128
+        I:"Min Height"=0
+        I:"Vein Chance"=100
+        I:"Vein Density"=100
+        I:"Vein Size"=4
+        I:"Veins Per Chunk"=4
+    }
+
+    ####################
+    # world_gen
+    ####################
+
+    world_gen {
+        S:diminsions=0 2-100000
+        I:max_height=128
+        I:min_height=0
+        I:vein_chance=100
+        I:vein_density=100
+        I:vein_size=4
+        I:veins_per_chunk=4
+    }
+
+}
+
+
+####################
+# recipes
+####################
+
+recipes {
+    B:"Enable Fertilizer"=true
+    B:"Enable HE TNT"=true
+    B:"Enable LE TNT"=true
+    B:"Enable Magnesium Igniter"=true
+    B:"Enable Match"=true
+    B:enable_he_tnt=true
+    B:enable_le_tnt=true
+    B:enable_magnesium_igniter=true
+    B:enable_match=true
+}
+
+
+####################
+# saltpeter
+####################
+
+saltpeter {
+    ####################
+    # misc
+    ####################
+
+    misc {
+        I:"Block Hardness Level"=1
+        I:block_hardness_level=1
+    }
+
+    ####################
+    # "world gen"
+    ####################
+
+    ""world gen"" {
+        S:Diminsions=0 2-100000
+        I:"Max Height"=128
+        I:"Min Height"=0
+        I:"Vein Chance"=100
+        I:"Vein Density"=100
+        I:"Vein Size"=4
+        I:"Veins Per Chunk"=4
+    }
+
+    ####################
+    # world_gen
+    ####################
+
+    world_gen {
+        S:diminsions=0 2-100000
+        I:max_height=128
+        I:min_height=0
+        I:vein_chance=100
+        I:vein_density=100
+        I:vein_size=4
+        I:veins_per_chunk=4
+    }
+
+}
+
+
+####################
+# sulfur
+####################
+
+sulfur {
+    ####################
+    # misc
+    ####################
+
+    misc {
+        I:"Block Hardness Level"=1
+        I:block_hardness_level=1
+    }
+
+    ####################
+    # "world gen"
+    ####################
+
+    ""world gen"" {
+        S:Diminsions=0 2-100000
+        I:"Max Height"=128
+        I:"Min Height"=0
+        I:"Vein Chance"=100
+        I:"Vein Density"=100
+        I:"Vein Size"=4
+        I:"Veins Per Chunk"=4
+    }
+
+    ####################
+    # world_gen
+    ####################
+
+    world_gen {
+        S:diminsions=0 2-100000
+        I:max_height=128
+        I:min_height=0
+        I:vein_chance=100
+        I:vein_density=100
+        I:vein_size=4
+        I:veins_per_chunk=4
+    }
+
+}
+
+

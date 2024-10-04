@@ -1,0 +1,217 @@
+# Configuration file
+
+####################
+# block
+####################
+
+block {
+    I:"Block ID of Amber"=3993
+    I:"Block ID of Amber Brick Stairs"=3930
+    I:"Block ID of Amber Door"=2585
+    I:"Block ID of Bamboo Crate"=3973
+    I:"Block ID of Bamboo Crop Block"=3967
+    I:"Block ID of Bamboo Extender"=3952
+    I:"Block ID of Bamboo Ladder"=3957
+    I:"Block ID of Bamboo Nerd Pole"=3951
+    I:"Block ID of Bamboo Shoot Block"=3968
+    I:"Block ID of Bamboo Torch"=3966
+    I:"Block ID of BambooBridge"=3965
+    I:"Block ID of Block o' Bones"=3954
+    I:"Block ID of Bulb Capped Mushroom"=2608
+    I:"Block ID of Double Height Plant"=2607
+    I:"Block ID of Erebus Altar"=3964
+    I:"Block ID of Erebus Altar of Experience"=3961
+    I:"Block ID of Erebus Altar of Healing"=3962
+    I:"Block ID of Erebus Altar of Lightning"=3963
+    I:"Block ID of Erebus Altar of Repair"=3960
+    I:"Block ID of Erebus Flower Blocks"=2582
+    I:"Block ID of Erebus Grass"=3982
+    I:"Block ID of Erebus Portal"=3996
+    I:"Block ID of Erebus Saplings"=3984
+    I:"Block ID of Erebus Stigma Blocks"=2601
+    I:"Block ID of Extra Erebus Ores"=3990
+    I:"Block ID of Ferns"=3980
+    I:"Block ID of Fiddlehead"=3979
+    I:"Block ID of Fossil Ore"=3994
+    I:"Block ID of Ghost Sand"=3991
+    I:"Block ID of Giant Mushroom 1"=2609
+    I:"Block ID of Giant Mushroom 2"=2610
+    I:"Block ID of Giant Mushroom 3"=2611
+    I:"Block ID of Giant Mushroom 4"=2612
+    I:"Block ID of Glowing Jar"=3959
+    I:"Block ID of Gneiss"=2586
+    I:"Block ID of Gneiss Stairs 0"=2587
+    I:"Block ID of Gneiss Stairs 1"=2588
+    I:"Block ID of Gneiss Stairs 2"=2589
+    I:"Block ID of Gneiss Stairs 3"=2590
+    I:"Block ID of Gneiss Stairs 4"=2591
+    I:"Block ID of Gneiss Stairs 5"=2592
+    I:"Block ID of Hollow Log"=3983
+    I:"Block ID of Honey Comb Block"=2584
+    I:"Block ID of Honey Treat"=2604
+    I:"Block ID of Insect Repellent Block"=3969
+    I:"Block ID of Jar O'Honey"=2605
+    I:"Block ID of Jumping Spider Spawners"=3927
+    I:"Block ID of Leaves"=3985
+    I:"Block ID of Log - group 1"=3988
+    I:"Block ID of Log - group 2"=3987
+    I:"Block ID of Log - group 3"=2613
+    I:"Block ID of Mirbrick"=3976
+    I:"Block ID of Mud"=2598
+    I:"Block ID of Mud Bricks"=2599
+    I:"Block ID of Petrified Crafting Table"=3974
+    I:"Block ID of Petrified Wood Chest"=3955
+    I:"Block ID of Petrified Wood Planks"=3975
+    I:"Block ID of Petrified Wood Slab0"=3932
+    I:"Block ID of Petrified Wood Slab1"=3931
+    I:"Block ID of Petrified Wood Stairs"=3940
+    I:"Block ID of Plank Slabs 0"=3937
+    I:"Block ID of Plank Slabs 1"=3936
+    I:"Block ID of Plank Slabs 2"=3935
+    I:"Block ID of Plank Slabs 3"=3934
+    I:"Block ID of Plank Stairs 0"=2534
+    I:"Block ID of Plank Stairs 1"=2535
+    I:"Block ID of Plank Stairs 10"=2544
+    I:"Block ID of Plank Stairs 2"=2536
+    I:"Block ID of Plank Stairs 3"=2537
+    I:"Block ID of Plank Stairs 4"=2538
+    I:"Block ID of Plank Stairs 5"=2539
+    I:"Block ID of Plank Stairs 6"=2540
+    I:"Block ID of Plank Stairs 7"=3943
+    I:"Block ID of Plank Stairs 8"=3942
+    I:"Block ID of Plank Stairs 9"=3941
+    I:"Block ID of Planks"=3986
+    I:"Block ID of Planted Flower"=2600
+    I:"Block ID of Quick Sand"=3992
+    I:"Block ID of Red Gem"=2503
+    I:"Block ID of Reinforced Exoskeleton Block"=3958
+    I:"Block ID of Scytodes Spawners"=3928
+    I:"Block ID of Silk"=3977
+    I:"Block ID of Small Plants and Mushrooms"=2603
+    I:"Block ID of Stone Slabs 0"=3939
+    I:"Block ID of Stone Slabs 1"=3938
+    I:"Block ID of Thorns"=3981
+    I:"Block ID of Turnips"=3978
+    I:"Block ID of Umber Furnace ON"=3972
+    I:"Block ID of Umber Golem Statue"=2570
+    I:"Block ID of Umbercobble Stairs 0"=3947
+    I:"Block ID of Umbercobble Stairs 1"=3946
+    I:"Block ID of Umbercobble Stairs 2"=3945
+    I:"Block ID of Umbercobble Stairs 3"=3944
+    I:"Block ID of Umbercobble Stairs 4"=2531
+    I:"Block ID of Umbercobble Stairs 5"=2532
+    I:"Block ID of Umbercobble Stairs 6"=2533
+
+    # Umberstone Block ID must be below 256
+    I:"Block ID of Umberstone"=251
+    I:"Block ID of Umberstone Button"=3989
+    I:"Block ID of Umberstone Pillar"=3950
+    I:"Block ID of Umebr Furnace OFF"=3971
+    I:"Block ID of Umebrpaver"=3970
+    I:"Block ID of Velocity Block"=2581
+    I:"Block ID of Wall"=3933
+    I:"Block ID of Wasp Nest Block"=3956
+    I:"Block ID of Wasp Nest Stairs"=3929
+    I:"Block ID of Wasp Spawners"=3926
+    I:"Block ID of Wither Web"=3953
+    I:"Block ID of the Umberstone Ores"=3995
+    I:"BlockID of Altar Block"=2865
+    I:"BlockID of GlowingGem"=3949
+    I:"BlockID of Jade Block"=2606
+    I:"BlockID of Mucus Bomb"=3948
+}
+
+
+####################
+# general
+####################
+
+general {
+    # 0 = only wooden blocks except tile entities & logs, 1 = only wooden blocks except logs, 2 = anything
+    I:"Beetle larva eating settings"=0
+    I:"Biome ID of Elysian Fields"=154
+    I:"Biome ID of Fields - Forest"=167
+    I:"Biome ID of Subterranean Savannah"=153
+    I:"Biome ID of Ulterior Outback"=155
+    I:"Biome ID of Underground Jungle"=151
+    I:"Biome ID of Volcanic Desert"=152
+
+    # This will not stop block destruction for player attacks only collided with blocks!
+    B:"Bombardier Beetle Block destruction"=true
+
+    # There doesn't appear to be a limit on dimension IDs, but try to keep it low
+    I:"Dimension ID of The Erebus"=66
+    I:"Fluid and Block ID of Erebus Honey"=2597
+    B:"Play erebus songs"=true
+    B:"Random mob names"=true
+    B:"Should generate aluminium?"=false
+    B:"Should generate copper?"=false
+    B:"Should generate lead?"=false
+    B:"Should generate silver?"=false
+    B:"Should generate tin?"=false
+    B:"Should spawn beetles and larvae in the portal"=true
+}
+
+
+####################
+# item
+####################
+
+item {
+    I:"Item ID of Amber Door"=31725
+    I:"Item ID of Bambucket"=9710
+    I:"Item ID of Bee Taming Amulet"=31726
+    I:"Item ID of Block Extractor"=31701
+    I:"Item ID of Bucket of Honey"=31724
+    I:"Item ID of Caveman's Club"=9727
+    I:"Item ID of Chest Armour Glider"=9735
+    I:"Item ID of Chest Armour Glider Powered"=31699
+    I:"Item ID of Compound Goggles"=9730
+    I:"Item ID of Crown of Luminosity"=9758
+    I:"Item ID of Encrusted Diamond"=9759
+    I:"Item ID of Erebus Food"=9708
+    I:"Item ID of Erebus Materials"=9707
+    I:"Item ID of Erebus Special Item"=31730
+    I:"Item ID of Exoskeleton Boots"=9726
+    I:"Item ID of Exoskeleton Chestplate"=9724
+    I:"Item ID of Exoskeleton Helmet"=9723
+    I:"Item ID of Exoskeleton Leggings"=9725
+    I:"Item ID of Giant Flower Seeds"=31722
+    I:"Item ID of Homing Beecon"=31723
+    I:"Item ID of Horn of The Swarm"=31729
+    I:"Item ID of Insect Repellent"=9712
+    I:"Item ID of Jade Axe"=9719
+    I:"Item ID of Jade Boots"=9716
+    I:"Item ID of Jade Chestplate"=9714
+    I:"Item ID of Jade Helmet"=9713
+    I:"Item ID of Jade Hoe"=9722
+    I:"Item ID of Jade Leggings"=9715
+    I:"Item ID of Jade Paxel"=9721
+    I:"Item ID of Jade Pickaxe"=9718
+    I:"Item ID of Jade Shovel"=9720
+    I:"Item ID of Jade Sword"=9717
+    I:"Item ID of Jump Boots"=9732
+    I:"Item ID of MaxSpeed Bow"=9729
+    I:"Item ID of Metal Ingots"=9709
+    I:"Item ID of Nectar Collector"=31728
+    I:"Item ID of Portal Activator"=9706
+    I:"Item ID of Reinforced Compound Goggles"=9740
+    I:"Item ID of Reinforced Exoskeleton Boots"=9739
+    I:"Item ID of Reinforced Exoskeleton Chestplate"=9737
+    I:"Item ID of Reinforced Exoskeleton Helmet"=9736
+    I:"Item ID of Reinforced Exoskeleton Leggings"=9738
+    I:"Item ID of Rolled Up Newspaper"=9757
+    I:"Item ID of Scorpion Pincer"=9741
+    I:"Item ID of Spawn Eggs"=9743
+    I:"Item ID of Sprint Leggings"=9731
+    I:"Item ID of Turnips"=9711
+    I:"Item ID of Wasp Dagger"=9733
+    I:"Item ID of Wasp Sword"=9728
+    I:"Item ID of Web Slinger"=31702
+    I:"Item ID of Whetstone"=31709
+    I:"Item ID of Woodlouse Ball"=31700
+    I:"ItemID of Bucket Of Beetle Juice"=9742
+    I:"ItemID of Wand of Animation"=9734
+}
+
+

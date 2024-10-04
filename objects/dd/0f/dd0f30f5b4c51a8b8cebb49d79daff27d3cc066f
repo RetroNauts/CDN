@@ -1,0 +1,59 @@
+# Configuration file
+
+####################
+# block
+####################
+
+block {
+    I:"Anniversary cake"=3771
+    I:"Apple cake"=3781
+    I:"Basque cake"=2895
+    I:Brownie=3773
+    I:"Cactus cake"=3768
+    I:"Chocolate cake"=3782
+    I:"Chocolate mousse"=3772
+    I:"Cookies cake"=3767
+    I:"Ender cake"=3769
+    I:"Gold Apple cake"=3780
+    I:"Lava cake"=2896
+    I:"Nordic cake"=3762
+    I:"Poisoned cake"=2897
+    I:"Pumpkin cake"=3764
+    I:"Redstone cake"=3774
+    I:"Sandy cake"=3765
+    I:"Spiced cake"=3766
+    I:"Stars cake"=3763
+    I:"Trapped cake"=3779
+    I:"Water-melon cake"=3770
+}
+
+
+####################
+# item
+####################
+
+item {
+    I:"Anniversary cake"=12510
+    I:"Apple cake"=12501
+    I:"Basque cake"=12506
+    I:Brownie=12508
+    I:"Cactus cake"=12513
+    I:"Chocolate cake"=12500
+    I:"Chocolate mousse"=12509
+    I:"Cookies cake"=12514
+    I:"Ender cake"=12512
+    I:"Gold Apple cake"=12502
+    I:"Hunger potion"=12520
+    I:"Lava cake"=12505
+    I:"Nordic cake"=12519
+    I:"Poisoned cake"=12504
+    I:"Pumpkin cake"=12517
+    I:"Redstone cake"=12507
+    I:"Sandy cake"=12516
+    I:"Spiced cake"=12515
+    I:"Stars cake"=12518
+    I:"Trapped cake"=12503
+    I:"Water-melon cake"=12511
+}
+
+

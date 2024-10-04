@@ -1,0 +1,14 @@
+# Configuration file
+
+####################
+# general
+####################
+
+general {
+    B:CanFertilize=true
+    B:CanHarvest=true
+    B:PlantOnDirt=true
+    B:PlantOnEndstone=true
+}
+
+

@@ -1,0 +1,163 @@
+# Configuration file
+
+####################
+# blacklist
+####################
+
+blacklist {
+    # Add TileEntities to this array to blacklist from D.A.T. Wrench. For what to type in see the log file when you wrench it.
+    S:wrench <
+     >
+
+    # You cannot modify the master blacklist. This is here as an example only. Any changes will be erased on load.
+    S:wrench_master <
+        buildcraft.transport.TileGenericPipe
+        thaumcraft.common.tiles.TileOwned
+        thaumcraft.common.tiles.TileArcanePressurePlate
+        vazkii.tinkerer.tile.TileEntityWardChest
+        powercrystals.minefactoryreloaded.tile.conveyor.TileEntityConveyor
+        dan200.turtle.shared.TileEntityTurtleExpanded
+        dan200.turtle.shared.TileEntityTurtle
+        codechicken.enderstorage.storage.item.TileEnderChest
+        mods.railcraft.common.blocks.machine.TileMultiBlock
+        crazypants.enderio.machine.power.TileCapacitorBank
+        crazypants.enderio.machine.alloy.TileAlloySmelter
+     >
+}
+
+
+####################
+# blocks
+####################
+
+blocks {
+    S:oreGemCluster_BlockID=2123
+}
+
+
+####################
+# integration
+####################
+
+integration {
+    ####################
+    # mfr
+    ####################
+
+    mfr {
+        S:MFR_Integrate=true
+
+        # Same weight as lapis
+        S:MFR_LaserWeight_GemClusterOre=80
+    }
+
+}
+
+
+####################
+# items
+#===================
+# Set any ID to 0 to disable.
+####################
+
+items {
+    I:gemCluster_Axe_ItemID=31319
+    I:gemCluster_Cutter_ItemID=31327
+    I:gemCluster_Grafter_ItemID=31326
+    I:gemCluster_Hamdrax_ItemID=31738
+    I:gemCluster_Hoe_ItemID=31322
+    I:gemCluster_ItemID=31317
+    I:gemCluster_Pickaxe_ItemID=31318
+    I:gemCluster_Scoop_ItemID=31325
+    I:gemCluster_Shovel_ItemID=31320
+    I:gemCluster_Sword_ItemID=31321
+    I:gemCluster_Wrench_ItemID=31323
+    I:gemCluster_Wrenched_ItemID=31324
+    ####################
+    # armor
+    ####################
+
+    armor {
+        I:gemClister_Boots_ItemID=31316
+        I:gemCluster_Chest_ItemID=31313
+        I:gemCluster_Helm_ItemID=31315
+        I:gemCluster_Leggings_ItemID=31314
+    }
+
+}
+
+
+####################
+# materials
+####################
+
+materials {
+    ####################
+    # gemcluster
+    ####################
+
+    gemcluster {
+        S:gemCluster_damage=2.0
+        S:gemCluster_efficiency=6.0
+        S:gemCluster_enchantability=14
+        S:gemCluster_harvestLevel=2
+        S:gemCluster_maxUses=400
+    }
+
+}
+
+
+####################
+# rendering
+####################
+
+rendering {
+    S:craftingHandler_enabled=true
+
+    # This option makes all gem armor invisible.
+    S:rendering_invisibleArmor=false
+}
+
+
+####################
+# tcon
+####################
+
+tcon {
+    ####################
+    # blocks
+    ####################
+
+    blocks {
+        S:tcon_MoltenCluster_BlockID=3532
+    }
+
+}
+
+
+####################
+# worldgen
+####################
+
+worldgen {
+    S:WorldGen_GemCluster_RegenKey=DEFAULT
+    S:WorldGen_GemCluster_enabled=true
+    S:WorldGen_GemCluster_layerMax=50
+    S:WorldGen_GemCluster_layerMin=10
+    S:WorldGen_GemCluster_orePerVein=8
+    S:WorldGen_GemCluster_regenerate=false
+    S:WorldGen_GemCluster_veinsPerChunk=10
+}
+
+
+####################
+# wrench
+####################
+
+wrench {
+    # If the wrench writes each use to the console.
+    S:wrench_LogBoxes=true
+    S:wrench_blackListMobSpawner=true
+}
+
+

@@ -1,0 +1,28 @@
+# Configuration file
+
+####################
+# block
+####################
+
+block {
+    # The Block id of the BetterChest
+    I:chestID=3783
+}
+
+
+####################
+# item
+####################
+
+item {
+    # The item id of the Bag
+    I:bagItem=31629
+
+    # The Item id of the Tool
+    I:itemTool=31628
+
+    # The Item id of the Upgrades
+    I:upgradeItem=31630
+}
+
+

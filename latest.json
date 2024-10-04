@@ -4,8 +4,8 @@
         {
             "type": "classpath",
             "path": "launcher.jar",
-            "hash": "48aa47189588954459985201feca23298b35c105da17ff47f18b5a39f88a9c5e",
-            "url": "https://github.com/RetroNauts/Launcher/releases/download/1.1.0-pre1/launcher-1.1.0-pre1.jar"
+            "hash": "3f874ad3862bae3cf3be8a64bb031f4b6f57b7b4f152346f29fc542c71b8f8f4",
+            "url": "https://github.com/RetroNauts/Launcher/releases/download/1.2.1/launcher-fancy-1.2.1.jar"
         }
     ],
     "main_class": "com.skcraft.launcher.FancyLauncher",

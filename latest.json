@@ -12,7 +12,7 @@
     "args": [
         "--portable",
         "--dir",
-        "${rootPath}"
+        "${rootPath}",
         "--bootstrap-version",
         "${bsVersion}"
     ],

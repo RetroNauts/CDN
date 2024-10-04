@@ -4,7 +4,7 @@
         {
             "type": "classpath",
             "path": "launcher.jar",
-            "hash": "3f874ad3862bae3cf3be8a64bb031f4b6f57b7b4f152346f29fc542c71b8f8f4",
+            "hash": "2c0b2ed6cb7474f7aafe06e0455b6ee2d661b84b3725f37e36c709c23dfd3cfb",
             "url": "https://github.com/RetroNauts/Launcher/releases/download/1.2.1/launcher-fancy-1.2.1.jar"
         }
     ],

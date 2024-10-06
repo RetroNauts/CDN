@@ -4,7 +4,7 @@
     {
       "title" : "Brightlight",
       "name" : "Brightlight",
-      "version" : "1.6.0.4",
+      "version" : "1.7.0",
       "javaRuntime" : "jre-legacy",
       "location" : "brightlight.json",
       "priority" : 0

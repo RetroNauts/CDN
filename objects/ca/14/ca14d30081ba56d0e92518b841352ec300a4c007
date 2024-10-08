@@ -1,0 +1,20 @@
+# Configuration file
+
+####################
+# dimensions
+####################
+
+dimensions {
+    I:"Callisto Dimension ID"=-53
+}
+
+
+####################
+# item
+####################
+
+item {
+    I:idItemCallistoItemBasic=6759
+}
+
+

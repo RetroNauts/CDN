@@ -1,0 +1,29 @@
+# Configuration file
+
+####################
+# dimensions
+####################
+
+dimensions {
+    I:"Eris Dimension ID"=-48
+}
+
+
+####################
+# general
+####################
+
+general {
+    B:"Generate other mod's features on Eris"=false
+}
+
+
+####################
+# item
+####################
+
+item {
+    I:idItemErisBasic=9777
+}
+
+

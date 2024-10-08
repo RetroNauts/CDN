@@ -1,0 +1,20 @@
+# Configuration file
+
+####################
+# dimensions
+####################
+
+dimensions {
+    I:"Ganymede Dimension ID"=-52
+}
+
+
+####################
+# item
+####################
+
+item {
+    I:idItemGanymedeItemBasic=31698
+}
+
+

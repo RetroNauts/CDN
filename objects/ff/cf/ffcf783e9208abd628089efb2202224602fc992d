@@ -1,0 +1,62 @@
+# Configuration file
+
+####################
+# dimensions
+####################
+
+dimensions {
+    I:"Sedna Dimension ID"=-49
+}
+
+
+####################
+# entities
+####################
+
+entities {
+    I:idEntityEvolvedEnderman=192
+    I:idEntitySpaceshipTier6=675
+}
+
+
+####################
+# general
+####################
+
+general {
+    B:"Generate other mod's features on Eris"=false
+}
+
+
+####################
+# gui
+####################
+
+gui {
+    I:idGuiRocketCraftingBenchT5=645
+}
+
+
+####################
+# item
+####################
+
+item {
+    I:idArmorGravityBoots=31594
+    I:idArmorGravityChestplate=31596
+    I:idArmorGravityHelmet=31597
+    I:idArmorGravityLeggings=31595
+    I:idItemSednaBasic=31598
+    I:idItemSpaceshipTier6=6545
+}
+
+
+####################
+# schematic
+####################
+
+schematic {
+    I:idSchematicRocketT5=6
+}
+
+

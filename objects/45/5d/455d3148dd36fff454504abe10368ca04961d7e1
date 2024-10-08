@@ -1,0 +1,20 @@
+# Configuration file
+
+####################
+# dimensions
+####################
+
+dimensions {
+    I:"Europa Dimension ID"=-50
+}
+
+
+####################
+# item
+####################
+
+item {
+    I:idItemIoItemBasic=31694
+}
+
+

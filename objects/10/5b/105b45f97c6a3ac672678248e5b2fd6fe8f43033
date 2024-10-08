@@ -1,0 +1,20 @@
+# Configuration file
+
+####################
+# dimensions
+####################
+
+dimensions {
+    I:"Vesta Dimension ID"=-42
+}
+
+
+####################
+# item
+####################
+
+item {
+    I:idItemVestaItemBasic=6756
+}
+
+

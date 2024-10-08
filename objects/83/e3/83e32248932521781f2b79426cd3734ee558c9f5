@@ -1,0 +1,57 @@
+# Configuration file
+
+####################
+# dimensions
+####################
+
+dimensions {
+    I:"Jupiter Dimension ID"=-43
+}
+
+
+####################
+# entities
+####################
+
+entities {
+    I:idEntitySpaceshipTier5=175
+}
+
+
+####################
+# gui
+####################
+
+gui {
+    I:idGuiRocketCraftingBenchT5=145
+}
+
+
+####################
+# item
+####################
+
+item {
+    I:idArmorClearDiamondBoots=31604
+    I:idArmorClearDiamondChestplate=31606
+    I:idArmorClearDiamondHelmet=2652
+    I:idArmorClearDiamondLeggings=31605
+    I:idItemJupiterItemBasic=9756
+    I:idItemSpaceshipTier5=7545
+    I:idToolClearDiamondAxe=31599
+    I:idToolClearDiamondHoe=31600
+    I:idToolClearDiamondPickaxe=31602
+    I:idToolClearDiamondSpade=31601
+    I:idToolClearDiamondSword=31603
+}
+
+
+####################
+# schematic
+####################
+
+schematic {
+    I:idSchematicRocketT5=5
+}
+
+

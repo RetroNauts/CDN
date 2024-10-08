@@ -1,0 +1,20 @@
+# Configuration file
+
+####################
+# dimensions
+####################
+
+dimensions {
+    I:"Titan Dimension ID"=-73
+}
+
+
+####################
+# item
+####################
+
+item {
+    I:idItemTitanItemBasic=7759
+}
+
+

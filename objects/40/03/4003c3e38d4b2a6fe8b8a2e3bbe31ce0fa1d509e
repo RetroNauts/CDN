@@ -1,0 +1,38 @@
+# Configuration file
+
+####################
+# dimensions
+####################
+
+dimensions {
+    I:"Venus Dimension ID"=-47
+}
+
+
+####################
+# general
+####################
+
+general {
+    B:"Generate other mod's features on Pluto"=false
+}
+
+
+####################
+# item
+####################
+
+item {
+    I:idArmorBlueGemBoots=1955
+    I:idArmorBlueGemChestplate=1953
+    I:idArmorBlueGemHelmet=1952
+    I:idArmorBlueGemLeggings=1954
+    I:idItemvenusItemBasic=7654
+    I:idToolBlueGemAxe=1960
+    I:idToolBlueGemHoe=1959
+    I:idToolBlueGemPickaxe=1957
+    I:idToolBlueGemSpade=1958
+    I:idToolBlueGemSword=1956
+}
+
+

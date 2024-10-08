@@ -1,0 +1,72 @@
+# Configuration file
+
+####################
+# dimensions
+####################
+
+dimensions {
+    I:"Venus Dimension ID"=-40
+}
+
+
+####################
+# entities
+####################
+
+entities {
+    I:idEntitySpaceshipTier4=174
+}
+
+
+####################
+# general
+####################
+
+general {
+    B:"Disable Coal Ore Gen on Mercury"=false
+    B:"Disable Copper Ore Gen on Mercury"=false
+    B:"Disable Gem Ore Gen on Mercury"=false
+    B:"Disable Mercury Village Gen"=false
+    B:"Disable Tin Ore Gen on Mercury"=false
+    B:"Generate other mod's features on Mercury"=false
+}
+
+
+####################
+# gui
+####################
+
+gui {
+    I:idGuiRocketCraftingBenchT4=144
+}
+
+
+####################
+# item
+####################
+
+item {
+    I:idArmorIridiumBoots=9655
+    I:idArmorIridiumChestplate=9653
+    I:idArmorIridiumHelmet=9652
+    I:idArmorIridiumLeggings=9654
+    I:idItemSpaceshipTier4=7544
+    I:idItemvenusItemBasic=7756
+    I:idToolIridiumAxe=9660
+    I:idToolIridiumHoe=9659
+    I:idToolIridiumPickaxe=9657
+    I:idToolIridiumSpade=9658
+    I:idToolIridiumSword=9656
+    I:idTtemMercuryT4Schematic=7757
+}
+
+
+####################
+# schematic
+####################
+
+schematic {
+    I:idSchematicRocketT4=4
+}
+
+
